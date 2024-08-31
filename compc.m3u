@@ -127,9 +127,9 @@ https://m3u8.trgoalsbabacdn.workers.dev/yayinb2.m3u8?|Referer=https://trgoals.xy
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 FR
 http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR
-https://hw1.jemtv.com/app/trtspor/playlist.m3u8
+http://helga.iptv2022.com/sh/trt_spor/index.m3u8
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ
-http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
+https://dvrfl05.tulix.tv/gin-trtspor2/index.m3u8
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR
 http://stream.tvcdn.net/spor/a-spor.m3u8
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER
@@ -162,6 +162,8 @@ http://hw1.jemtv.com/app/tv8/playlist.m3u8
 https://dvrfl05.tulix.tv/gin-trtspor/index.m3u8
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek jem
 https://hw1.jemtv.com/app/trtspor/playlist.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek any
+https://live.anystreamrectv3.live/live/trtspor.m3u8
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek bozz
 https://bozztv.com/inim03/live1/trtspor/playlist.m3u8
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek bozz 2
@@ -182,6 +184,8 @@ https://trt.daioncdn.net/trtspor/master.m3u8?app=web
 http://helga.iptv2022.com/sh/trt_spor/index.m3u8
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/M9kWXzt/trt3spor22c.png",TRT SPOR-3 yedek bozz
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ jem
+http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ dai
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ blu
