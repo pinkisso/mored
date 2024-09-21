@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [4] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
+https://tayland.canlimachd10.site/hls/bein-sports-1-hd.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [4] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
+https://tayland.canlimachd10.site/hls/bein-sports-1.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [4] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
+https://alpha.cf-worker-97d2b270c90d1671.workers.dev/live/bein-sports-1/playlist.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [4] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
+https://alpha.cf-worker-97d2b270c90d1671.workers.dev/live/beinsports-1/playlist.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [4] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
+https://alpha.cf-worker-97d2b270c90d1671.workers.dev/live/tbeinsports-1/playlist.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [4] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
+https://tv.anystreamrectv18.xyz/live/bs1/index.m3u8|User-agent=Dart&Mozilla/5.0
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [4] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
+https://tv.anystreamrectv18.xyz/live/bs11/index.m3u8|User-agent=Dart&Mozilla/5.0
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [4] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
+https://scr013.b-cdn.net/live/99.m3u8|User-agent=Mozilla/5.0 FMP (m3u-ip.tv 2.2.4)NetSurf/2.0 AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [4] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
+https://scr013.b-cdn.net/live/10.m3u8|User-agent=Mozilla/5.0 FMP (m3u-ip.tv 2.2.4)NetSurf/2.0 AppleWebKit/537.36(m3u-ip.tv 2.2.4) Android
+
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
 https://github.com/proefem/yutuber/raw/main/bin1TV.m3u8
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
