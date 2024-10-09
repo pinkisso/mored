@@ -209,5 +209,17 @@ http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
 #EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ blu
 https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉",Test1
-http://test
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 1
+https://joaquinito02.es/vavoo/3665914763.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 1
+https://joaquinito02.es/vavoo/451145631.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 1
+https://joaquinito02.es/vavoo/1945247175.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 1
+https://joaquinito02.es/vavoo/3107708522.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 2
+https://joaquinito02.es/vavoo/2490165372.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",M6
+https://joaquinito02.es/vavoo/3435456326.m3u8
+#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",M6
+https://joaquinito02.es/vavoo/688242401.m3u8
