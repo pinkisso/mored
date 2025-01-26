@@ -1,237 +1,139 @@
 #EXTM3U
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",BEIN 1
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",BEIN 2
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b2&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",BEIN 3
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b3&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TRT 1
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=trt1&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TRT SPOR
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=trtspor&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",ATV
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=atv&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TABII
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TABII 1
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii1&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TABII 2
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii2&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TABII 3
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii3&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",SSPOR 1
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=ssport1&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",SSPOR 2
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=ssport2&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TVBU 1
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tivi1&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TVBU 2
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tivi2&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TVBU 3
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tivi3&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",SMART 1
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=sporsmart&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",SMART 2
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=sporsmart2&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",EXXEN 1
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=exen1&e=.m3u8
+#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",EXXEN 2
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=exen2&e=.m3u8
 
 
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 1
-https://joaquinito02.es/vavoo/3665914763.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 1
-https://joaquinito02.es/vavoo/451145631.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 1
-https://joaquinito02.es/vavoo/1945247175.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 1
-https://joaquinito02.es/vavoo/3107708522.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 1
-https://joaquinito02.es/vavoo/3830691316.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TABİİ SPOR 2
-https://joaquinito02.es/vavoo/2490165372.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/whx3jsv/ssport1.png",S SPORT 1
-https://cdn.srectv1.xyz/live/ss1/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/whx3jsv/ssport1.png",S SPORT 1
-https://tv.anystreamrectv18.xyz/live/ss1/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/FJbpbh5/ssport2.png",S SPORT 2
-http://vip.torktv.org:2095/live/grhn9626/gr00/6389.ts
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/0Mvqhtc/sporspmart.png",SMART 1
-http://vip.torktv.org:2095/live/grhn9626/gr00/6396.ts
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1 
-https://cdn.srectv1.xyz/live/bs1/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
-https://cdn.srectv1.xyz/live/bs11/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/bdPBXk8/bein02.png",BEIN 2
-https://cdn.srectv1.xyz/live/bs2/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/94gGjNL/bein03.png",BEIN 3
-https://cdn.srectv1.xyz/live/bs3/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/xXfQg7K/bein04.png",BEIN 4
-https://cdn.srectv1.xyz/live/bs4/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
-https://tv.anystreamrectv18.xyz/live/bs1/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
-https://tv.anystreamrectv18.xyz/live/bs11/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/bdPBXk8/bein02.png",BEIN 2
-https://tv.anystreamrectv18.xyz/live/bs2/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/94gGjNL/bein03.png",BEIN 3
-https://tv.anystreamrectv18.xyz/live/bs3/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" tvg-logo="https://i.ibb.co/xXfQg7K/bein04.png",BEIN 4
-https://tv.anystreamrectv18.xyz/live/bs4/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-https://wooxangel05.shop:8443/705/mono.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-https://wooxangel05.shop:8443/707/mono.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-https://us-cdn-1.varsportscdn1.lol/607/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-https://us-cdn-1.varsportscdn1.lol/608/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-https://corsproxy.org/?https://odin.7545c95540dc.shop/13/chunk_hd.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-https://corsproxy.org/?https://odin.7545c95540dc.shop/14/chunk_hd.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-https://odin.7545c95540dc.shop/13/chunk_hd.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-https://odin.7545c95540dc.shop/14/chunk_hd.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinss.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664821?play_token=&live=true
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPOR
-http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664822?play_token=&live=true
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPORA1
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPORA2
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",BEIN 1
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8?|Referer=https://ib.strmrdrfr361899ac.click/
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",BEIN 1
+https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8?|Referer=https://ib.strmrdrfr361899ac.click/
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",BEIN 2
+https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",BEIN 2
+https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",BEIN 3
+https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TRT 1
+https://tre.2b4a9bb526bd2acb.shop/i/trt1/2888/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TRT SPOR
+https://tre.2b4a9bb526bd2acb.shop/i/trtspor/2889/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TRT SPOR YILDIZ
+https://tre.2b4a9bb526bd2acb.shop/i/trt*/2890/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",A SPOR
+https://tre.2b4a9bb526bd2acb.shop/i/aspor/172/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TV 8.5
+https://tre.2b4a9bb526bd2acb.shop/i/tv85/202/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TABII 1
+https://tre.2b4a9bb526bd2acb.shop/i/tabi1/4101/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TABII 2
+https://tre.2b4a9bb526bd2acb.shop/i/tabi2/4102/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TABII 3
+https://tre.2b4a9bb526bd2acb.shop/i/tabi3/4103/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SSPOR 1
 https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",0312 SSPORA3
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",0312 SSPORA4
-https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPORA5
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉",0312 SSPORA6
-https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",0312 SSPORA01
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",0312 SSPORA02
-https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",0312 SSPORA
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport2/3451/playlist.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",0312 SSPORA
-https://tre.2b4a9bb526bd2acb.shop/i/ssport2/3451/playlist.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",0312 SSPORA
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport2/3451/playlist.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [3] 🎉" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",0312 SSPORA
-https://tre.2b4a9bb526bd2acb.shop/i/ssport2/3451/playlist.m3u8?|Referer=https://trgoals1135.xyz/
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SSPOR 1
+https://tre.2b4a9bb526bd2acb.shop/i/sspor1/3450/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SSPOR 2
+https://tre.2b4a9bb526bd2acb.shop/i/ssport2/3451/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SSPOR 2
+https://tre.2b4a9bb526bd2acb.shop/i/sspor2/3451/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TVBU 1
+https://tre.2b4a9bb526bd2acb.shop/i/tivibu-spor-1/606/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TVBU 1
+https://tre.2b4a9bb526bd2acb.shop/i/tivibu1/606/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TVBU 2
+https://tre.2b4a9bb526bd2acb.shop/i/tivibu2/607/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TVBU 3
+https://tre.2b4a9bb526bd2acb.shop/i/tivibu3/608/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SMART 1
+https://tre.2b4a9bb526bd2acb.shop/i/smart1/102/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SMART 2
+https://tre.2b4a9bb526bd2acb.shop/i/smart2/104/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",EXXEN 1
+https://tre.2b4a9bb526bd2acb.shop/i/exxen1/4101/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",EXXEN +1
+https://tre.2b4a9bb526bd2acb.shop/i/exxentv/ssportplus1/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",EXXEN +2
+https://tre.2b4a9bb526bd2acb.shop/i/exxentv/ssportplus2/playlist.m3u8 
+#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android",TABII TEST
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi6/4106/playlist.m3u8?|Referer=https://ib.strmrdrfr361899ac.click/
 
 
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayin1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1 ZİRVE
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",BEIN 1 TRGOAL
+https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayin1.m3u8?|Referer=https://trgoals1134.xyz/
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",BEIN 1 ZİRVE
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinzirve.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1 STAR
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",BEIN 1 STAR
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinstar.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/bdPBXk8/bein02.png",BEIN 2
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",BEIN 2
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinb2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/94gGjNL/bein03.png",BEIN 3
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",BEIN 3
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinb3.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/VmBkNTf/exxen.png",EXXEN 1
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/VmBkNTf/exxen.png",EXXEN 2
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/VmBkNTf/exxen.png",EXXEN 3
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex3.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/0Mvqhtc/sporspmart.png",SMART 1
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinsmarts.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/0Mvqhtc/sporspmart.png",SMART 2
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinsms2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/whx3jsv/ssport1.png",S SPORT 1
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinss.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/FJbpbh5/ssport2.png",S SPORT 2
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinss2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/whx3jsv/ssport1.png",S SPORT +
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinssp2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/3sXWM3q/tivibu1.png",TİVİBU 1
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayint1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/NSHHZDD/tivibu2.png",TİVİBU 2
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayint2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/HCMPYzZ/tivibu3.png",TİVİBU 3
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayint3.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/pwdQTSd/bein01.png",BEIN 1 BELKİ
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinb1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/whx3jsv/ssport1.png",S SPORT 1 BELKİ
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinss1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/0Mvqhtc/sporspmart.png",SMART 1 BELKİ
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinsms.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/0Mvqhtc/sporspmart.png",SMART 1 BELKİ
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinsms1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/VmBkNTf/exxen.png",EXXEN 1 BELKİ
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/VmBkNTf/exxen.png",EXXEN 4
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex4.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/VmBkNTf/exxen.png",EXXEN 5
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex5.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/VmBkNTf/exxen.png",EXXEN 6
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex6.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [2] 🎉" tvg-logo="https://i.ibb.co/VmBkNTf/exxen.png",EXXEN 7
-https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex7.m3u8?|Referer=https://trgoals1135.xyz/
-
-
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 FR
-http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR
-https://tgn.bozztv.com/dvrfl05/gin-trtspor/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ
-https://dvrfl05.tulix.tv/gin-trtspor2/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR
-http://stream.tvcdn.net/spor/a-spor.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/vk6S4xG/beinhab.png",BIS HABER
-http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3sXWM3q/tivibu1.png",TİVİBU HABER
-http://stream.tvcdn.net/spor/tivibu-spor.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 - - (akşam)
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TRT 1
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayintrt1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR - - (akşam)
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TRT SPOR
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayintrtspor.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR 2 - - (akşam)
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TRT SPORT YILDIZ
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayintrtspor2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR - - (akşam)
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",A SPOR
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinas.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",A TV - - (akşam)
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",A TV
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinatv.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV 8 - - (akşam)
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TV 8
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayintv8.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png",TV 8.5 - - (akşam)
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TV 8.5
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayintv85.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png",TV 8.5 yedek tulix
-https://dvrfl05.tulix.tv/gin-sekizbucuk/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png",TV 8.5 yedek bozz_off
-https://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png",TV 8.5 yedek jemtv
-https://hw1.jemtv.com/app/tv85/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV 8 yedek bozz_off
-https://bozztv.com/inim03/live1/tv8tv/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV 8 yedek jemtv
-http://hw1.jemtv.com/app/tv8/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR yedek tulix
-https://dvrfl05.tulix.tv/gin-aspor/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek tulix
-https://dvrfl05.tulix.tv/gin-trtspor/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek jemtv
-https://hw1.jemtv.com/app/trtspor/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek helga
-http://helga.iptv2022.com/sh/trt_spor/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek bozz
-https://tgn.bozztv.com/dvrfl05/gin-trtspor/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek bozz_off
-https://bozztv.com/inim03/live1/trtspor/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek bozz2_off
-https://bozztv.com/gin-dvrfl05/gin-trtspor/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek canlifun_off
-https://yayin2.canlitv.fun/livetv/trtspor.stream/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek canlitv_off
-https://canlitvulusal.xyz/live/trtspor/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek fulltv_off
-https://c.fulltvizle.com/trtspor/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek izle_off
-https://izle.livev.xyz/trtspor/index.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek blu_off
-https://trtspor.blutv.com/blutv_trtspor/live.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR yedek dai-geo
-https://trt.daioncdn.net/trtspor/master.m3u8?app=web
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/M9kWXzt/trt3spor22c.png",TRT SPOR-3 yedek bozz
-https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ tulix
-https://dvrfl05.tulix.tv/gin-trtspor2/playlist.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ jemtv
-http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ dai-geo
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ blu-died
-https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",M6 joaq
-https://joaquinito02.es/vavoo/3435456326.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",M6 joaq
-https://joaquinito02.es/vavoo/688242401.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 tntdir
-https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 tntdir
-https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/9.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",W9 joaq
-https://joaquinito02.es/vavoo/2800628364.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",W9 joaq
-https://joaquinito02.es/vavoo/3385549986.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",W9 joaq
-https://joaquinito02.es/vavoo/128046615.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TF1 joaq
-https://joaquinito02.es/vavoo/2913521200.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TF1 joaq
-https://joaquinito02.es/vavoo/1484327785.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" user-agent="VAVOO/1.0", referer="https://vavoo.to/",TF1 joaq
-https://joaquinito02.es/vavoo/1334669376.m3u8
-#EXTINF:-1 group-title="|⚽➕|🏆🏅 EXTRA EK SPOR KANALLARI [1] 🎉" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 tntdir
-https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",SSPOR 1
+https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinss.m3u8?|Referer=https://trgoals1135.xyz/
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",SSPOR 2
+https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinss2.m3u8?|Referer=https://trgoals1135.xyz/
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TVBU 1
+https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayint1.m3u8?|Referer=https://trgoals1135.xyz/
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TVBU 2
+https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayint2.m3u8?|Referer=https://trgoals1135.xyz/
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TVBU 3
+https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayint3.m3u8?|Referer=https://trgoals1135.xyz/
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",SMART 1
+https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinsmarts.m3u8?|Referer=https://trgoals1135.xyz/
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",SMART 2
+https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinsms2.m3u8?|Referer=https://trgoals1135.xyz/
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",EXXEN 1 
+https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex1.m3u8?|Referer=https://trgoals1135.xyz/
+#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",EXXEN 2
+https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex2.m3u8?|Referer=https://trgoals1135.xyz/
