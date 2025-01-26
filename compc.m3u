@@ -1,133 +1,99 @@
 #EXTM3U
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",BEIN 1
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",BEIN 2
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b2&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",BEIN 3
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b3&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TRT 1
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=trt1&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TRT SPOR
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=trtspor&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",ATV
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=atv&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TABII
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TABII 1
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii1&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TABII 2
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii2&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TABII 3
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tabii3&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",SSPOR 1
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=ssport1&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",SSPOR 2
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=ssport2&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TVBU 1
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tivi1&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TVBU 2
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tivi2&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",TVBU 3
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=tivi3&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",SMART 1
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=sporsmart&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",SMART 2
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=sporsmart2&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",EXXEN 1
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=exen1&e=.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ İNAT SPOR",EXXEN 2
-https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=exen2&e=.m3u8
-
-
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android" referer="https://ib.strmrdrfr361899ac.click/",BEIN 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android" referer="https://ib.strmrdrfr361899ac.click/",BEIN 1
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android" referer="https://ib.strmrdrfr361899ac.click/",BEIN 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2" user-agent="Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android" referer="https://ib.strmrdrfr361899ac.click/",BEIN 1
 https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",BEIN 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",BEIN 1
 https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",BEIN 2
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",BEIN 2
 https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",BEIN 3
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",BEIN 3
 https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TRT 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TRT 1
 https://tre.2b4a9bb526bd2acb.shop/i/trt1/2888/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TRT SPOR
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TRT SPOR
 https://tre.2b4a9bb526bd2acb.shop/i/trtspor/2889/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TRT SPOR YILDIZ
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TRT SPOR YILDIZ
 https://tre.2b4a9bb526bd2acb.shop/i/trt*/2890/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",A SPOR
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",A SPOR
 https://tre.2b4a9bb526bd2acb.shop/i/aspor/172/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TV 8.5
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TV 8.5
 https://tre.2b4a9bb526bd2acb.shop/i/tv85/202/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TABII 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TABII 1
 https://tre.2b4a9bb526bd2acb.shop/i/tabi1/4101/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TABII 2
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TABII 2
 https://tre.2b4a9bb526bd2acb.shop/i/tabi2/4102/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TABII 3
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TABII 3
 https://tre.2b4a9bb526bd2acb.shop/i/tabi3/4103/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SSPOR 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",SSPOR 1
 https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SSPOR 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",SSPOR 1
 https://tre.2b4a9bb526bd2acb.shop/i/sspor1/3450/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SSPOR 2
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",SSPOR 2
 https://tre.2b4a9bb526bd2acb.shop/i/ssport2/3451/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SSPOR 2
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",SSPOR 2
 https://tre.2b4a9bb526bd2acb.shop/i/sspor2/3451/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TVBU 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TVBU 1
 https://tre.2b4a9bb526bd2acb.shop/i/tivibu-spor-1/606/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TVBU 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TVBU 1
 https://tre.2b4a9bb526bd2acb.shop/i/tivibu1/606/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TVBU 2
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TVBU 2
 https://tre.2b4a9bb526bd2acb.shop/i/tivibu2/607/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",TVBU 3
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",TVBU 3
 https://tre.2b4a9bb526bd2acb.shop/i/tivibu3/608/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SMART 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",SMART 1
 https://tre.2b4a9bb526bd2acb.shop/i/smart1/102/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",SMART 2
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",SMART 2
 https://tre.2b4a9bb526bd2acb.shop/i/smart2/104/playlist.m3u8
-#EXTINF:-1 group-title="B. |++|⚽ RADAR SELÇUK",EXXEN 1
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",EXXEN 1
 https://tre.2b4a9bb526bd2acb.shop/i/exxen1/4101/playlist.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",SSPOR 1 INAT
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=ssport1&e=.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",SSPOR 2 INAT
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=ssport2&e=.m3u8
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR 2",BEIN 1 INAT
+https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1&e=.m3u8
 
 
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",BEIN 1 TRGOAL
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",BEIN 1 TRGOAL
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayin1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",BEIN 1 ZİRVE
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",BEIN 1 ZİRVE
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinzirve.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",BEIN 1 STAR
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",BEIN 1 STAR
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinstar.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",BEIN 2
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",BEIN 2
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinb2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",BEIN 3
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",BEIN 3
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinb3.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TRT 1
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",TRT 1
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayintrt1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TRT SPOR
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",TRT SPOR
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayintrtspor.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TRT SPORT YILDIZ
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",TRT SPORT YILDIZ
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayintrtspor2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",A SPOR
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",A SPOR
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinas.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",A TV
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",A TV
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinatv.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TV 8
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",TV 8
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayintv8.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TV 8.5
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",TV 8.5
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayintv85.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",SSPOR 1
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",SSPOR 1
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinss.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",SSPOR 2
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",SSPOR 2
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinss2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TVBU 1
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",TVBU 1
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayint1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TVBU 2
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",TVBU 2
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayint2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",TVBU 3
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",TVBU 3
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayint3.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",SMART 1
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",SMART 1
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinsmarts.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",SMART 2
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",SMART 2
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinsms2.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",EXXEN 1 
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",EXXEN 1 
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex1.m3u8?|Referer=https://trgoals1135.xyz/
-#EXTINF:-1 group-title="C. |++|⚽ KEYİFLER OSLUN",EXXEN 2
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR 1",EXXEN 2
 https://o0.b4c8d3e9f1a2b7c5d32.cfd/yayinex2.m3u8?|Referer=https://trgoals1135.xyz/
