@@ -41,6 +41,10 @@ https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcuktv8/playlist.m3u8?
 
 #EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR A",BEIN 1 TRGOALS
 https://k0.4928d54d950ee70q11.click/yayin1.m3u8?|Referer=https://trgoals1266.xyz/
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR A",BEIN 1 ZIRVE
+https://k0.4928d54d950ee70q11.click/yayinzirve.m3u8?|Referer=https://trgoals1266.xyz/
+#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR A",BEIN 1 INAT
+https://k0.4928d54d950ee70q11.click/yayininat.m3u8?|Referer=https://trgoals1266.xyz/
 #EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR A",BEIN 2
 https://k0.4928d54d950ee70q11.click/yayinb2.m3u8?|Referer=https://trgoals1266.xyz/
 #EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR A",BEIN 3
@@ -69,10 +73,6 @@ https://k0.4928d54d950ee70q11.click/yayinss2.m3u8?|Referer=https://trgoals1266.x
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR A",SSPOR 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
-#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR A",YAYIN ZIRVE
-https://k0.4928d54d950ee70q11.click/yayinzirve.m3u8?|Referer=https://trgoals1266.xyz/
-#EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR A",YAYIN INAT
-https://k0.4928d54d950ee70q11.click/yayininat.m3u8?|Referer=https://trgoals1266.xyz/
 #EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR A",YAYIN STAR
 https://k0.4928d54d950ee70q11.click/yayinstar.m3u8?|Referer=https://trgoals1266.xyz/
 #EXTINF:-1 group-title="A. |++|⚽ LISTE SPOR A",YAYIN EX
