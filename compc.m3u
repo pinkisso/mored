@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR B",BEIN 1 SELCUKSPOR
 https://alpha.cf-worker-2143f8e6572eb2.workers.dev/live/selcukbeinsports1/playlist.m3u8?|Referer=https://www.selcuksportshd1755.xyz/
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR B",BEIN 1 EXTRA
+https://alpha.cf-worker-2143f8e6572eb2.workers.dev/live/selcukbeinsports1s/playlist.m3u8?|Referer=https://www.selcuksportshd1755.xyz/
+#EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR B",BEIN 1 YEDEK
+https://alpha.cf-worker-2143f8e6572eb2.workers.dev/live/selcukbeinsports1m/playlist.m3u8?|Referer=https://www.selcuksportshd1755.xyz/
 #EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR B",BEIN 2
 https://alpha.cf-worker-2143f8e6572eb2.workers.dev/live/selcukbeinsports2/playlist.m3u8?|Referer=https://www.selcuksportshd1755.xyz/
 #EXTINF:-1 group-title="B. |++|⚽ LISTE SPOR B",BEIN 3
