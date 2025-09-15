@@ -10,10 +10,10 @@ https://bs.arectv33.sbs/static/bs1.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Bein Sports 1 [HD]
 https://bs.arectv33.sbs/static/bs1.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcukbeinsports1" tvg-logo="" group-title="Spor",Bein Sports 1|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Bein Sports 1|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsports1/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-1" tvg-logo="" group-title="Spor",Bein Sports 1|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Bein Sports 1|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/sbeinsports-1/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",beIN SPORTS 2 A
@@ -25,10 +25,10 @@ https://one.zirvestream11.cfd/yayinb2.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Bein Sports 2 [HD]
 https://bs.arectv33.sbs/static/bs2.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcukbeinsports2" tvg-logo="" group-title="Spor",Bein Sports 2|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Bein Sports 2|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsports2/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-2" tvg-logo="" group-title="Spor",Bein Sports 2|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Bein Sports 2|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/sbeinsports-2/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",beIN SPORTS 3 A
@@ -40,10 +40,10 @@ https://one.zirvestream11.cfd/yayinb3.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Bein Sports 3 [HD]
 https://bs.arectv33.sbs/static/bs3.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcukbeinsports3" tvg-logo="" group-title="Spor",Bein Sports 3|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Bein Sports 3|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsports3/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-3" tvg-logo="" group-title="Spor",Bein Sports 3|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Bein Sports 3|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/sbeinsports-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",beIN SPORTS 4 A
@@ -55,10 +55,10 @@ https://one.zirvestream11.cfd/yayinb4.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Bein Sports 4 [HD]
 https://bs.arectv33.sbs/static/bs4.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcukbeinsports1" tvg-logo="" group-title="Spor",Bein Sports 4|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Bein Sports 4|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsports1/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-4" tvg-logo="" group-title="Spor",Bein Sports 4|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Bein Sports 4|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/sbeinsports-4/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",beIN SPORTS 5 A
@@ -70,10 +70,10 @@ https://one.zirvestream11.cfd/yayinb5.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Bein Sports 5 [HD]
 https://bs.arectv33.sbs/static/bs5.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcukbeinsports5" tvg-logo="" group-title="Spor",Bein Sports 5|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Bein Sports 5|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsports5/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsports-5" tvg-logo="" group-title="Spor",Bein Sports 5|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Bein Sports 5|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/sbeinsports-5/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",beIN SPORTS 1 Max A
@@ -85,10 +85,10 @@ https://one.zirvestream11.cfd/yayinbm1.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Bein Sports Max 1
 https://tv.arectv34.sbs/live/bm1.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcukbeinsportsmax1" tvg-logo="" group-title="Spor",Bein Sports Max1|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Bein Sports Max1|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsportsmax-1" tvg-logo="" group-title="Spor",Bein Sports Max1|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Bein Sports Max1|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/sbeinsportsmax-1/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",beIN SPORTS Max 2 A
@@ -100,10 +100,10 @@ https://one.zirvestream11.cfd/yayinbm2.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Bein Sports Max 2
 https://tv.arectv34.sbs/live/bm2.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcukbeinsportsmax2" tvg-logo="" group-title="Spor",Bein Sports Max2|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Bein Sports Max2|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="sbeinsportsmax-2" tvg-logo="" group-title="Spor",Bein Sports Max2|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Bein Sports Max2|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/sbeinsportsmax-2/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor",S Sport
@@ -115,10 +115,10 @@ https://ten.4928d54d950ee70q30.lat/yayinss.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://monotv523.com/",S Sport 1 C
 https://one.zirvestream11.cfd/yayinss.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcukssport" tvg-logo="" group-title="Spor",S Sport|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",S Sport|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="sssport" tvg-logo="" group-title="Spor",S Sport|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",S Sport|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/sssport/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor",S Sport 2
@@ -130,10 +130,10 @@ https://ten.4928d54d950ee70q30.lat/yayinss2.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://monotv523.com/",S Sport 2 C
 https://one.zirvestream11.cfd/yayinss2.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="S Sport 2" tvg-country="TR" tvg-id="selcukssport2" tvg-logo="" group-title="Spor",S Sport 2|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",S Sport 2|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="sssport2" tvg-logo="" group-title="Spor",S Sport 2|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",S Sport 2|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/sssport2/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",Spor Smart 1 A
@@ -145,10 +145,10 @@ https://one.zirvestream11.cfd/yayinsmarts.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Spor Smart 1 [HD]
 https://tv.arectv34.sbs/live/smart1.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcuksmartspor" tvg-logo="" group-title="Spor",Spor Smart|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Spor Smart|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcuksmartspor/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="ssmartspor" tvg-logo="" group-title="Spor",Spor Smart|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Spor Smart|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/ssmartspor/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",Spor Smart 2 A
@@ -160,10 +160,10 @@ https://one.zirvestream11.cfd/yayinsms2.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Spor Smart 2 [SD]
 https://tv.arectv34.sbs/live/smart2.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcuksmartspor2" tvg-logo="" group-title="Spor",Spor Smart 2|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Spor Smart 2|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcuksmartspor2/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="ssmartspor2" tvg-logo="" group-title="Spor",Spor Smart 2|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Spor Smart 2|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/ssmartspor2/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",Tivibu Spor 1 A
@@ -175,10 +175,10 @@ https://one.zirvestream11.cfd/yayint1.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Tivibu Spor 1 [HD]
 https://tv.arectv34.sbs/live/t1.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcuktivibuspor1" tvg-logo="" group-title="Spor",Tivibu Spor 1|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Tivibu Spor 1|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcuktivibuspor1/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-1" tvg-logo="" group-title="Spor",Tivibu Spor 1|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Tivibu Spor 1|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/stivibuspor-1/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",Tivibu Spor 2 A
@@ -190,10 +190,10 @@ https://one.zirvestream11.cfd/yayint2.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Tivibu Spor 2 [HD]
 https://tv.arectv34.sbs/live/t2.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcuktivibuspor2" tvg-logo="" group-title="Spor",Tivibu Spor 2|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Tivibu Spor 2|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcuktivibuspor2/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-2" tvg-logo="" group-title="Spor",Tivibu Spor 2|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Tivibu Spor 2|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/stivibuspor-2/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",Tivibu Spor 3 A
@@ -205,10 +205,10 @@ https://one.zirvestream11.cfd/yayint3.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",Tivibu Spor 3 [HD]
 https://tv.arectv34.sbs/live/t3.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcuktivibuspor3" tvg-logo="" group-title="Spor",Tivibu Spor 3|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Tivibu Spor 3|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcuktivibuspor3/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-3" tvg-logo="" group-title="Spor",Tivibu Spor 3|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Tivibu Spor 3|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/stivibuspor-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1378.xyz/",Tivibu Spor 4 A
@@ -220,10 +220,10 @@ https://one.zirvestream11.cfd/yayint4.m3u8
 #EXTINF:-1 group-title="Spor" user-agent="okhttp/4.12.0" referer="https://twitter.com",TİVİBU SPOR 4
 https://tv.arectv34.sbs/live/t4.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="selcuktivibuspor4" tvg-logo="" group-title="Spor",Tivibu Spor 4|SS
+#EXTINF:-1 group-title="Spor" referer="https://www.selcuksportshd1825.xyz/",Tivibu Spor 4|SS
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcuktivibuspor4/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",tvg-name="TRT Türk" tvg-country="TR" tvg-id="stivibuspor-4" tvg-logo="" group-title="Spor",Tivibu Spor 4|CF
+#EXTINF:-1 group-title="Spor" referer="https://www.sporcafe6.xyz/",Tivibu Spor 4|CF
 https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/stivibuspor-4/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor",Eurosport 1
