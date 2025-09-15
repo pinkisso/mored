@@ -52,3 +52,19 @@ https://two.4928d54d950ee70q42.lat/yayinss2.m3u8?|Referer=https://trgoals1397.xy
 https://two.4928d54d950ee70q42.lat/yayinstar.m3u8?|Referer=https://trgoals1397.xyz/
 #EXTINF:-1 group-title="Spor_Gol",YAYIN EX
 https://two.4928d54d950ee70q42.lat/yayinex.m3u8?|Referer=https://trgoals1397.xyz/
+#EXTINF:-1 group-title="Spor_Gol",BEIN 1 TRGOALS
+https://two.4928d54d950ee70q42.lat/yayin1.m3u8|Referer=https://trgoals1397.xyz/
+#EXTINF:-1 group-title="Spor_Gol",BEIN 1 ZIRVE
+https://two.4928d54d950ee70q42.lat/yayinzirve.m3u8|Referer=https://trgoals1397.xyz/
+#EXTINF:-1 group-title="Spor_Gol" referer="https://trgoals1397.xyz/",BEIN 1 TRGOALS
+https://two.4928d54d950ee70q42.lat/yayin1.m3u8
+#EXTINF:-1 group-title="Spor_Gol" referer="https://trgoals1397.xyz/",BEIN 1 ZIRVE
+https://two.4928d54d950ee70q42.lat/yayinzirve.m3u8
+#EXTINF:-1 group-title="Spor_Gol" referer="https://trgoals1397.xyz/",TRT 1
+https://two.4928d54d950ee70q42.lat/yayintrt1.m3u8
+#EXTINF:-1 group-title="Spor_Gol" referer="https://trgoals1397.xyz/",TRT SPOR
+https://two.4928d54d950ee70q42.lat/yayintrtspor.m3u8
+#EXTINF:-1 group-title="Spor_Gol",TRT 1
+https://two.4928d54d950ee70q42.lat/yayintrt1.m3u8|Referer=https://trgoals1397.xyz/
+#EXTINF:-1 group-title="Spor_Gol",TRT SPOR
+https://two.4928d54d950ee70q42.lat/yayintrtspor.m3u8|Referer=https://trgoals1397.xyz/
