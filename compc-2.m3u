@@ -1,20 +1,20 @@
 #EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",BEIN 1 TRGOALS
 https://six.4928d54d950ee70q46.lat/yayin1.m3u8
-#EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",BEIN 1 ZIRVE
-https://six.4928d54d950ee70q46.lat/yayinzirve.m3u8
 #EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",BEIN 1 INAT
 https://six.4928d54d950ee70q46.lat/yayininat.m3u8
 #EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",BEIN 1
-https://six.4928d54d950ee70q46.lat/yayinb1.m3u8
+https://six.4928d54d950ee70q46.lat/yayinzirve.m3u8
 #EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",BEIN 2
 https://six.4928d54d950ee70q46.lat/yayinb2.m3u8
 #EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",BEIN 3
 https://six.4928d54d950ee70q46.lat/yayinb3.m3u8
+#EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",BEIN 1 YEDEK
+https://six.4928d54d950ee70q46.lat/yayinb1.m3u8
 #EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",TRT 1
 https://six.4928d54d950ee70q46.lat/yayintrt1.m3u8
 #EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",TRT SPOR
 https://six.4928d54d950ee70q46.lat/yayintrtspor.m3u8
-#EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",TRT SPORT YILDIZ
+#EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",TRT SPOR YILDIZ
 https://six.4928d54d950ee70q46.lat/yayintrtspor2.m3u8
 #EXTINF:-1 group-title="Spor_TrGol" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1407.xyz/",A SPOR
 https://six.4928d54d950ee70q46.lat/yayinas.m3u8
