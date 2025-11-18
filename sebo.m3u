@@ -1,3 +1,6 @@
+#EXTINF:-1 group-title="Spor_Sebo",Bİ 1! KANAL
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+
 #EXTINF:-1 group-title="Spor_Sebo",TV8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 
@@ -14,10 +17,7 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 https://tv-trtspor2-esdai.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="Spor_Sebo",BeIN SPOR HABER
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
-
-#EXTINF:-1 group-title="Spor_Sebo",Bİ 1! KANAL
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/bein-sports-haber.m3u8
 
 #EXTINF:-1 group-title="Spor_Sebo",SIFIR TV (1080p)
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
@@ -51,9 +51,6 @@ https://v.arectv30.sbs/static/pl2.m3u8
 
 #EXTINF:-1 group-title="Spor_Sebo",S SPORT plus 3
 https://bs.arectv33.sbs/static/pl3.m3u8
-
-#EXTINF:-1 group-title="Spor_Sebo",BeIN SPORTS
-http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/1
 
 #EXTINF:-1 group-title="Spor_Sebo",Bein sports 1 Selçuk spor
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
