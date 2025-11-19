@@ -52,10 +52,10 @@ https://v.arectv30.sbs/static/pl2.m3u8
 #EXTINF:-1 group-title="Spor_Sebo",S SPORT plus 3
 https://bs.arectv33.sbs/static/pl3.m3u8
 
-#EXTINF:-1 group-title="Spor_Sebo",Bein sports 1 Selçuk spor
+#EXTINF:-1 group-title="Spor_Sebo" referer="https://www.selcuksportshd1825.xyz/",Bein sports 1 Selçuk spor
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports1/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor_Sebo",Bein sports 1 xyz spor
+#EXTINF:-1 group-title="Spor_Sebo" referer="https://www.selcuksportshd1825.xyz/",Bein sports 1 xyz spor
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/bein-sports-1/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor_Sebo",Bein sports 1 be spor
@@ -67,8 +67,8 @@ https://v.arectv30.sbs/static/bs11.m3u8
 #EXTINF:-1 group-title="Spor_Sebo",BeIN SPORTS 1 rec tv
 https://bs.arectv31.sbs/static/bs1.m3u8
 
-#EXTINF:-1 group-title="Spor_Sebo",Bein sports 2 selcuk spor
-https://dga1op10s1u4lep.f80fcd777993c210.live/live/sbeinsports-2/playlist.m3u8
+#EXTINF:-1 group-title="Spor_Sebo" referer="https://www.sporcafe6.xyz/",Bein sports 2 selcuk spor
+https://dga1op10s1u4lep.f80fcd777993c210.live/live/selcukbeinsports2/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor_Sebo",Bein Sports 2 rec tv
 https://v.arectv30.sbs/static/bs2.m3u8
