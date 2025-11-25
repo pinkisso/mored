@@ -95,7 +95,7 @@ https://dga1op10s1u4lep.f80fcd777993c210.live/live/ssportsmax-1/playlist.m3u8
 https://dga1op10s1u4lep.f80fcd777993c210.live/live/sbeinsportsmax-2/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor_Sebo",TRT 1 Medya
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 group-title="Spor_Sebo",TRT 1 YEDEK 89
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.m3u8
