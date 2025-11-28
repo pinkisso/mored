@@ -19,6 +19,9 @@ https://tv-trtspor2-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Spor_Sebo",BeIN SPOR HABER
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/bein-sports-haber.m3u8
 
+#EXTINF:-1 group-title="Spor_Sebo",Tivibu Spor
+https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
+
 #EXTINF:-1 group-title="Spor_Sebo",SIFIR TV (1080p)
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 
