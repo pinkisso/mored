@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="Spor_Sebo",Bİ 1! KANAL
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
-
 #EXTINF:-1 group-title="Spor_Sebo",TV8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 
@@ -17,7 +14,7 @@ https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 https://tv-trtspor2-esdai.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="Spor_Sebo",BeIN SPOR HABER
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/bein-sports-haber.m3u8
+https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 #EXTINF:-1 group-title="Spor_Sebo",Tivibu Spor
 https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
