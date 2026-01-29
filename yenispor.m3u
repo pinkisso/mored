@@ -41,3 +41,7 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 group-title="Yeni_Spor",ATV
 https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv.m3u8
+#EXTINF:-1 group-title="Spor_Trgol" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" referer="https://trgoals1519.xyz/",BEIN 1 TRGOALS PC
+https://9vy.d72577a9dd0ec19.sbs/trgoals/mono.m3u8
+#EXTINF:-1 group-title="Spor_Trgol" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://trgoals1518.xyz/",BEIN 1 TRGOALS GH
+https://lc4.d72577a9dd0ec8.sbs/yayin1.m3u8
