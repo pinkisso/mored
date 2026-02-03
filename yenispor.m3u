@@ -45,3 +45,11 @@ https://bs.arectv31.sbs/static/tabi.m3u8
 https://bs.arectv31.sbs/static/tabi1.m3u8
 #EXTINF:-1 group-title="Yeni_Spor" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" referer="https://trgoals1522.xyz/",BEIN 1 TRGOALS PC
 https://5mr.d72577a9dd0ec20.sbs/trgoals/mono.m3u8
+#EXTINF:-1 drm="ClearKey", drmkey="df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc",NO
+https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8
+#EXTINF:-1 drm="ClearKey", drmkey="df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",UA
+https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8
+#EXTINF:-1 drm="ClearKey", drmkey="df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" referer="https://app.molotov.tv/",UA RF
+https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8
+#EXTINF:-1 drm="ClearKey", drmkey="df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" referer="https://app.molotov.tv/",UA RF SG
+https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8?MOLOTOSIGN
