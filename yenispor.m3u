@@ -53,3 +53,9 @@ https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8
 https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8
 #EXTINF:-1 drm="ClearKey", drmkey="df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" referer="https://app.molotov.tv/",UA RF SG
 https://live-up.akamaized.net/public/tf1/tf1.isml/master.m3u8?MOLOTOSIGN
+#EXTINF:-1 drm="ClearKey", drmkey="df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" referer="https://app.molotov.tv/",UA RF SG
+https://live-up.akamaized.net/public/tf1/tf1.isml/master.mpd?MOLOTOSIGN
+#EXTINF:-1 drm="ClearKey", drmkey="df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" referer="https://app.molotov.tv/",UA RF SG
+https://live-up.akamaized.net/public/tf1/tf1.isml/manifest.mpd?MOLOTOSIGN
+#EXTINF:-1 drm="ClearKey", drmkey="df78d16c381d701dc72ec0b1cc81590b:0f2c901630a0f85cf1864227a38bccfc" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" referer="https://app.molotov.tv/",UA RF SG
+https://live-up.akamaized.net/public/tf1/tf1.isml/index.mpd?MOLOTOSIGN
