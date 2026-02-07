@@ -43,5 +43,9 @@ https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv.m3u8
 https://bs.arectv31.sbs/static/tabi.m3u8
 #EXTINF:-1 group-title="Yeni_Spor",TABII
 https://bs.arectv31.sbs/static/tabi1.m3u8
-#EXTINF:-1 group-title="Yeni_Spor" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" referer="https://trgoals1522.xyz/",BEIN 1 TRGOALS PC
+#EXTINF:-1 group-title="Yeni_Spor" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" referer="https://trgoals1526.xyz/",BEIN 1 TRGOALS PC
 https://5mr.d72577a9dd0ec20.sbs/trgoals/mono.m3u8
+#EXTINF:-1 group-title="Yeni_Spor" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/144.0.0.0" referer="https://trgoals1526.xyz/",BEIN 1 TRGOALS 
+https://ojh.d72577a9dd0ec22.sbs/trgoals/mono.m3u8
+#EXTINF:-1 group-title="Yeni_Spor" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/144.0.0.0" referer="https://trgoals1526.xyz/",BEIN 1 TR
+https://ojh.d72577a9dd0ec22.sbs/yayin1.m3u8
