@@ -26,11 +26,11 @@ https://v.arectv30.sbs/static/bs11.m3u8
 
 
 #EXTINF:-1 group-title="Spor_bedava",TRT SPOR
-http://dsmartgo-live.ercdn.net/trtspor/trtspor.m3u8
+https://gist.githubusercontent.com/pinkisso/99773434d854eef21ca1f5be703fc1a7/raw/a168fe2c4617fc0afe09e963b7945e35fde4096f/ttsp.m3u8
 #EXTINF:-1 group-title="Spor_bedava",TRT SPOR YILDIZ
-http://dsmartgo-live.ercdn.net/trtspor2/trtspor2.m3u8
+https://gist.githubusercontent.com/pinkisso/2d604a5a312fe1d62e95423723d0c7da/raw/a7cf552a58b1bcbfb08f13ad9046a9682cf71432/ttsp2.m3u8
 #EXTINF:-1 group-title="Spor_bedava",TRT 1
-https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
+https://gist.githubusercontent.com/pinkisso/6bb074e7d9864188c81338c25747d213/raw/54f01b961f5a14f323307ec73527999bbd05effc/tt1.m3u8
 #EXTINF:-1 group-title="Spor_bedava",TRT 1
 http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1 group-title="Spor_bedava",TRT 1
