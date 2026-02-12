@@ -19,16 +19,10 @@ https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="Spor_andro",SSPORT 2
 https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 group-title="Spor_andro" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" referer="https://monotv531.com/",BEIN 1
-https://live.tecostream.xyz/mono/php_channels/yayinzirve.php?m3u8
-#EXTINF:-1 group-title="Spor_andro" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)" referer="https://trgoals1364.xyz",BEIN 10
-https://live.tecostream.xyz/Beinsports1.php?m3u8
-#EXTINF:-1 group-title="Spor_andro" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" referer="https://monotv531.com/",BEIN 2
-https://live.tecostream.xyz/mono/php_channels/yayinb2.php?m3u8
-#EXTINF:-1 group-title="Spor_andro" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" referer="https://monotv531.com/",S SPORT 1
-https://live.tecostream.xyz/mono/php_channels/yayinss.php?m3u8
-#EXTINF:-1 group-title="Spor_andro" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" referer="https://monotv531.com/",S SPORT 2
-https://live.tecostream.xyz/mono/php_channels/yayinss2.php?m3u8
+#EXTINF:-1 group-title="Spor_andro",+ BEIN 1
+https://bs.arectv31.sbs/static/bs1.m3u8
+#EXTINF:-1 group-title="Spor_andro",+ BEIN 1
+https://v.arectv30.sbs/static/bs11.m3u8
 
 
 #EXTINF:-1 group-title="Spor_bedava",TRT SPOR
