@@ -2,7 +2,7 @@ name: m6ch action
 
 on:
   schedule:
-    - cron: '28 */3 * * *'
+    - cron: '28 */1 * * *'
   
   workflow_dispatch:
 
@@ -31,3 +31,4 @@ jobs:
           git pull origin main
           git commit -m "m6ch updated"
           git push origin main
+        continue-on-error: true
