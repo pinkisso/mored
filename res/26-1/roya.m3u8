@@ -1,1 +1,11 @@
-entryee
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2500000
+https://ochuergrys.erbvr.com/roya/roya_1080p.m3u8?st=KbKJHTxgrjf3_E2pD6gzmw&e=1779623058&sid=9XE7Yo9Hs0SPuw2YrgoDGA&bvr_flags=1&bvr_ch=roya&bvr_bw=2500000
+#EXT-X-STREAM-INF:BANDWIDTH=1500000
+https://ochuergrys.erbvr.com/roya/roya_720p.m3u8?st=KbKJHTxgrjf3_E2pD6gzmw&e=1779623058&sid=9XE7Yo9Hs0SPuw2YrgoDGA&bvr_flags=1&bvr_ch=roya&bvr_bw=1500000
+#EXT-X-STREAM-INF:BANDWIDTH=1000000
+https://ochuergrys.erbvr.com/roya/roya_480p.m3u8?st=KbKJHTxgrjf3_E2pD6gzmw&e=1779623058&sid=9XE7Yo9Hs0SPuw2YrgoDGA&bvr_flags=1&bvr_ch=roya&bvr_bw=1000000
+#EXT-X-STREAM-INF:BANDWIDTH=600000
+https://ochuergrys.erbvr.com/roya/roya_360p.m3u8?st=KbKJHTxgrjf3_E2pD6gzmw&e=1779623058&sid=9XE7Yo9Hs0SPuw2YrgoDGA&bvr_flags=1&bvr_ch=roya&bvr_bw=600000
+
