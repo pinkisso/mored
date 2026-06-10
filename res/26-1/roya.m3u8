@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2500000
-https://ochuergrys.erbvr.com/roya/roya_1080p.m3u8?st=gmPzTMQAXHM7MdxwLpT0Qg&e=1781120195&sid=dAYuj7Y5LEKt7iFgxU_MCw&bvr_flags=1&bvr_ch=roya&bvr_bw=2500000
+https://ochuergrys.erbvr.com/roya/roya_1080p.m3u8?st=BSoQdK22FaB3O2DKR3wJkw&e=1781136433&sid=M9_Rh5C2N0OAe-FitdXI0w&bvr_flags=1&bvr_ch=roya&bvr_bw=2500000
 #EXT-X-STREAM-INF:BANDWIDTH=1500000
-https://ochuergrys.erbvr.com/roya/roya_720p.m3u8?st=gmPzTMQAXHM7MdxwLpT0Qg&e=1781120195&sid=dAYuj7Y5LEKt7iFgxU_MCw&bvr_flags=1&bvr_ch=roya&bvr_bw=1500000
+https://ochuergrys.erbvr.com/roya/roya_720p.m3u8?st=BSoQdK22FaB3O2DKR3wJkw&e=1781136433&sid=M9_Rh5C2N0OAe-FitdXI0w&bvr_flags=1&bvr_ch=roya&bvr_bw=1500000
 #EXT-X-STREAM-INF:BANDWIDTH=1000000
-https://ochuergrys.erbvr.com/roya/roya_480p.m3u8?st=gmPzTMQAXHM7MdxwLpT0Qg&e=1781120195&sid=dAYuj7Y5LEKt7iFgxU_MCw&bvr_flags=1&bvr_ch=roya&bvr_bw=1000000
+https://ochuergrys.erbvr.com/roya/roya_480p.m3u8?st=BSoQdK22FaB3O2DKR3wJkw&e=1781136433&sid=M9_Rh5C2N0OAe-FitdXI0w&bvr_flags=1&bvr_ch=roya&bvr_bw=1000000
 #EXT-X-STREAM-INF:BANDWIDTH=600000
-https://ochuergrys.erbvr.com/roya/roya_360p.m3u8?st=gmPzTMQAXHM7MdxwLpT0Qg&e=1781120195&sid=dAYuj7Y5LEKt7iFgxU_MCw&bvr_flags=1&bvr_ch=roya&bvr_bw=600000
+https://ochuergrys.erbvr.com/roya/roya_360p.m3u8?st=BSoQdK22FaB3O2DKR3wJkw&e=1781136433&sid=M9_Rh5C2N0OAe-FitdXI0w&bvr_flags=1&bvr_ch=roya&bvr_bw=600000
 
