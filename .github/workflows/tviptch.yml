@@ -1,0 +1,35 @@
+name: tvi-pt_ch action
+on:
+  schedule:
+    - cron: "00 04,16 * * *"
+    
+  workflow_dispatch:
+
+jobs:
+  update-stream:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: updating tvi-pt_ch
+        run: sh res/26-2/tviptch.sh
+
+      - name: setup git config
+        run: |
+          git config user.name "tvi-pt_ch bot"
+          git config user.email "<>"
+          
+      - name: commit
+        run: |
+          git pull
+          git add res/26-2/cnnpt.m3u8
+          git add res/26-2/tvi.m3u8
+          git add res/26-2/tviint.m3u8
+          git add res/26-2/tvific.m3u8
+          git add res/26-2/tvimai.m3u8
+          git add res/26-2/tvirea.m3u8
+          git add res/26-2/tviafr.m3u8
+          git commit -m "tvi-pt_ch updated"
+          git push origin master
