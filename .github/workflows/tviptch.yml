@@ -32,4 +32,4 @@ jobs:
           git add res/26-2/tvirea.m3u8
           git add res/26-2/tviafr.m3u8
           git commit -m "tvi-pt_ch updated"
-          git push origin master
+          git push origin main
