@@ -1,0 +1,41 @@
+name: ytbe edit
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Configure git
+        run: |
+          git config --global user.email "bot@github.com"
+          git config --global user.name "ytbe bot"
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Execute Python script
+        run: python3 res/ytbe/ytedit.py
+
+      - name: Commit changes
+        run: |
+          git add -A
+          git diff --cached --quiet || git commit -m "ytbe updated"
+
+      - name: Pull and push safely
+        run: |
+          git pull --rebase origin main
+          git push origin main
