@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2500000
-https://ochuergrys.erbvr.com/roya/roya_1080p.m3u8?st=YQTT2FxtcD4cXhqwkQD-hg&e=1782843293&sid=Jh5TgUO2sUyl6jJ1U0_LQg&bvr_flags=1&bvr_ch=roya&bvr_bw=2500000
-#EXT-X-STREAM-INF:BANDWIDTH=1500000
-https://ochuergrys.erbvr.com/roya/roya_720p.m3u8?st=YQTT2FxtcD4cXhqwkQD-hg&e=1782843293&sid=Jh5TgUO2sUyl6jJ1U0_LQg&bvr_flags=1&bvr_ch=roya&bvr_bw=1500000
-#EXT-X-STREAM-INF:BANDWIDTH=1000000
-https://ochuergrys.erbvr.com/roya/roya_480p.m3u8?st=YQTT2FxtcD4cXhqwkQD-hg&e=1782843293&sid=Jh5TgUO2sUyl6jJ1U0_LQg&bvr_flags=1&bvr_ch=roya&bvr_bw=1000000
-#EXT-X-STREAM-INF:BANDWIDTH=600000
-https://ochuergrys.erbvr.com/roya/roya_360p.m3u8?st=YQTT2FxtcD4cXhqwkQD-hg&e=1782843293&sid=Jh5TgUO2sUyl6jJ1U0_LQg&bvr_flags=1&bvr_ch=roya&bvr_bw=600000
+#EXT-X-STREAM-INF:BANDWIDTH=3756913,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_720p/hdntl=exp=1782958276~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=707df72ed6bb1a9172bb5d6b0212a6bbda182de4491f09dc685dc4997d4645d0/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3146498,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_source/hdntl=exp=1782958276~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=707df72ed6bb1a9172bb5d6b0212a6bbda182de4491f09dc685dc4997d4645d0/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2086484,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_480p/hdntl=exp=1782958276~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=707df72ed6bb1a9172bb5d6b0212a6bbda182de4491f09dc685dc4997d4645d0/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1726328,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_360p/hdntl=exp=1782958276~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=707df72ed6bb1a9172bb5d6b0212a6bbda182de4491f09dc685dc4997d4645d0/chunks.m3u8
 
