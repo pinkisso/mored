@@ -1,3 +1,4 @@
+import os
 import requests
 
 playlists = {
@@ -9,7 +10,9 @@ playlists = {
     "sozcutelevizyonu.m3u8": "https://raw.githubusercontent.com/tecotv2025/youtube-canli/main/streams/sozcutelevizyonu.m3u8",
 }
 
-for output_file, url in playlists.items():
+output_dir = os.path.dirname(os.path.abspath(__file__))
+
+for filename, url in playlists.items():
     response = requests.get(url)
     response.raise_for_status()
 
@@ -18,7 +21,9 @@ for output_file, url in playlists.items():
     if len(lines) >= 2:
         lines[1] = "#EXT-X-STREAM-INF:BANDWIDTH=7680000"
 
-    with open(output_file, "w", encoding="utf-8") as f:
+    output_path = os.path.join(output_dir, filename)
+
+    with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-    print(f"Created {output_file}")
+    print(f"Created {output_path}")
