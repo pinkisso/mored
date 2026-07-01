@@ -7,6 +7,7 @@ playlists = {
     "cnnturk.m3u8": "https://raw.githubusercontent.com/tecotv2025/youtube-canli/main/streams/cnnturk.m3u8",
     "ekoturk.m3u8": "https://raw.githubusercontent.com/tecotv2025/youtube-canli/main/streams/ekoturk.m3u8",
     "krttv.m3u8": "https://raw.githubusercontent.com/tecotv2025/youtube-canli/main/streams/krttv.m3u8",
+    "ahaber.m3u8": "https://raw.githubusercontent.com/tecotv2025/youtube-canli/refs/heads/main/streams/ahaber.m3u8",
     "sozcutelevizyonu.m3u8": "https://raw.githubusercontent.com/tecotv2025/youtube-canli/main/streams/sozcutelevizyonu.m3u8",
 }
 
