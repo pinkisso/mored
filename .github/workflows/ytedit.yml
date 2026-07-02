@@ -2,7 +2,7 @@ name: ytbe edit
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/20 * * * *'
   workflow_dispatch:
 
 jobs:
