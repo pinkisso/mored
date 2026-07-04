@@ -22,6 +22,10 @@ for filename, url in playlists.items():
     if len(lines) >= 2:
         lines[1] = "#EXT-X-STREAM-INF:BANDWIDTH=7680000"
 
+    # Remove lines 3 and 4 (indices 2 and 3)
+    if len(lines) >= 4:
+        del lines[2:4]
+
     output_path = os.path.join(output_dir, filename)
 
     with open(output_path, "w", encoding="utf-8") as f:
