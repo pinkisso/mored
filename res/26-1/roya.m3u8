@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=4240493,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_720p/hdntl=exp=1783222917~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=f0b42d030aa4032d5f87adc3f2a8246d9610fa2106fc54609a80baf753a7f85b/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3237116,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_source/hdntl=exp=1783222917~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=f0b42d030aa4032d5f87adc3f2a8246d9610fa2106fc54609a80baf753a7f85b/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2137957,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_480p/hdntl=exp=1783222917~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=f0b42d030aa4032d5f87adc3f2a8246d9610fa2106fc54609a80baf753a7f85b/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1612832,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_360p/hdntl=exp=1783222917~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=f0b42d030aa4032d5f87adc3f2a8246d9610fa2106fc54609a80baf753a7f85b/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3184009,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_source/hdntl=exp=1783237854~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=a6e511105e271fbcbd9857fd89eccf15872c58dd9cee6b5b91bb31827d5ee4ed/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1950833,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_720p/hdntl=exp=1783237854~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=a6e511105e271fbcbd9857fd89eccf15872c58dd9cee6b5b91bb31827d5ee4ed/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1081084,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_360p/hdntl=exp=1783237854~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=a6e511105e271fbcbd9857fd89eccf15872c58dd9cee6b5b91bb31827d5ee4ed/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1034370,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://ochuergrys.erbvr.com/roya/royatvpublish/royatv_480p/hdntl=exp=1783237854~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=a6e511105e271fbcbd9857fd89eccf15872c58dd9cee6b5b91bb31827d5ee4ed/chunks.m3u8
 
