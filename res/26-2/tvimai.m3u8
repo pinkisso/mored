@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1393632,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://video-auth2.iol.pt/edge_servers/vmais-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjYgNTo3OjU2IFBNJmhhc2hfdmFsdWU9NitKb3dSNy9iUy9zNkErY3FncGsvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTk5ZWI0YzZlLThjN2EtNGMwOC04ZWUzLWI3YjBkYmNiMmRlNQ==
+https://video-auth2.iol.pt/edge_servers/vmais-720p/chunks.m3u8?wmsAuthSign=
 #EXT-X-STREAM-INF:BANDWIDTH=871507,RESOLUTION=854x480,CODECS="avc1.66.30,mp4a.40.2"
-https://video-auth2.iol.pt/edge_servers/vmais-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjYgNTo3OjU2IFBNJmhhc2hfdmFsdWU9NitKb3dSNy9iUy9zNkErY3FncGsvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTk5ZWI0YzZlLThjN2EtNGMwOC04ZWUzLWI3YjBkYmNiMmRlNQ==
+https://video-auth2.iol.pt/edge_servers/vmais-480p/chunks.m3u8?wmsAuthSign=
 #EXT-X-STREAM-INF:BANDWIDTH=576951,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
-https://video-auth2.iol.pt/edge_servers/vmais-360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjYgNTo3OjU2IFBNJmhhc2hfdmFsdWU9NitKb3dSNy9iUy9zNkErY3FncGsvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTk5ZWI0YzZlLThjN2EtNGMwOC04ZWUzLWI3YjBkYmNiMmRlNQ==
+https://video-auth2.iol.pt/edge_servers/vmais-360p/chunks.m3u8?wmsAuthSign=
 #EXT-X-STREAM-INF:BANDWIDTH=346578,RESOLUTION=426x240,CODECS="avc1.42c015,mp4a.40.2"
-https://video-auth2.iol.pt/edge_servers/vmais-240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjYgNTo3OjU2IFBNJmhhc2hfdmFsdWU9NitKb3dSNy9iUy9zNkErY3FncGsvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTk5ZWI0YzZlLThjN2EtNGMwOC04ZWUzLWI3YjBkYmNiMmRlNQ==
+https://video-auth2.iol.pt/edge_servers/vmais-240p/chunks.m3u8?wmsAuthSign=
