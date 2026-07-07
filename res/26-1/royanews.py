@@ -17,7 +17,7 @@ resplink = s.get(url)
 response_json = json.loads(resplink.text)
 mastlnk = response_json["data"]["secured_url"]
 
-content_response = requests.get(mastlnk)
+content_response = s.get(mastlnk)
 content = content_response.text
 
 lines = content.split("\n")
