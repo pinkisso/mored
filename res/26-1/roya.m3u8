@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2831654,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://live.kwikmotion.com/royatvlive/royatv.smil/royatvpublish/royatv_source/hdntl=exp=1783565842~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=b738c83eedb5e75235072d3a37d60e35562bc494b831a894a6f6fb6fb9817253/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1468768,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://live.kwikmotion.com/royatvlive/royatv.smil/royatvpublish/royatv_720p/hdntl=exp=1783565842~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=b738c83eedb5e75235072d3a37d60e35562bc494b831a894a6f6fb6fb9817253/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=881373,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://live.kwikmotion.com/royatvlive/royatv.smil/royatvpublish/royatv_480p/hdntl=exp=1783565842~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=b738c83eedb5e75235072d3a37d60e35562bc494b831a894a6f6fb6fb9817253/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=812000,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://live.kwikmotion.com/royatvlive/royatv.smil/royatvpublish/royatv_360p/hdntl=exp=1783565842~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=b738c83eedb5e75235072d3a37d60e35562bc494b831a894a6f6fb6fb9817253/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2667594,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://live.kwikmotion.com/royatvlive/royatv.smil/royatvpublish/royatv_source/hdntl=exp=1783566161~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=5b4d980d74f485035cbcecc9dfb6f3376756447b44322bae78691a6f1b01af57/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2650361,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://live.kwikmotion.com/royatvlive/royatv.smil/royatvpublish/royatv_720p/hdntl=exp=1783566161~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=5b4d980d74f485035cbcecc9dfb6f3376756447b44322bae78691a6f1b01af57/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1434889,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://live.kwikmotion.com/royatvlive/royatv.smil/royatvpublish/royatv_360p/hdntl=exp=1783566161~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=5b4d980d74f485035cbcecc9dfb6f3376756447b44322bae78691a6f1b01af57/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1367377,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://live.kwikmotion.com/royatvlive/royatv.smil/royatvpublish/royatv_480p/hdntl=exp=1783566161~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=5b4d980d74f485035cbcecc9dfb6f3376756447b44322bae78691a6f1b01af57/chunks.m3u8
 
