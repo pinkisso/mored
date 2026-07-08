@@ -1,39 +1,52 @@
 import requests
+from urllib.parse import urljoin
 
 api_url = "https://ticket.roya-tv.com/api/v5/fastchannel/1"
 
-headers = {
+session = requests.Session()
+
+session.headers.update({
     "User-Agent": "Mozilla/5.0",
-    "Accept": "application/json"
-}
+    "Referer": "https://www.roya-tv.com/"
+})
 
-try:
-    # Get secured_url from API
-    response = requests.get(api_url, headers=headers, timeout=10)
-    response.raise_for_status()
+# Get secured URL
+r = session.get(api_url, timeout=10)
+r.raise_for_status()
 
-    data = response.json()
-    secured_url = data["data"]["secured_url"]
+secured_url = r.json()["data"]["secured_url"]
 
-    print("Secured URL:")
-    print(secured_url)
-    print("\nPlaylist content:\n")
+print("Master playlist:")
+print(secured_url)
 
-    # Get m3u8 content
-    playlist_response = requests.get(
-        secured_url,
-        headers={
-            "User-Agent": "Mozilla/5.0",
-            "Accept-Encoding": "identity"
-        },
-        timeout=10
-    )
-    playlist_response.raise_for_status()
+# Get master m3u8
+r = session.get(secured_url, timeout=10)
+r.raise_for_status()
 
-    print(playlist_response.text)
+playlist = r.text
 
-except requests.RequestException as e:
-    print("Request error:", e)
+print("\nPlaylist:")
+print(playlist)
 
-except KeyError:
-    print("secured_url not found in API response")
+# Extract first stream URL
+for line in playlist.splitlines():
+    if line and not line.startswith("#"):
+        variant_url = urljoin(secured_url, line)
+        break
+
+print("\nVariant URL:")
+print(variant_url)
+
+# Test variant playlist
+r2 = session.get(
+    variant_url,
+    headers={
+        "User-Agent": "Mozilla/5.0",
+        "Referer": "https://www.roya-tv.com/"
+    },
+    timeout=10
+)
+
+print("\nVariant playlist response:")
+print(r2.status_code)
+print(r2.text[:500])
