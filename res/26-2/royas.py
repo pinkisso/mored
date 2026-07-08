@@ -21,11 +21,23 @@ r.raise_for_status()
 
 playlist = r.text
 
-# Extract first stream URL
+variant_url = None
+
+# Try to extract 720p stream URL
 for line in playlist.splitlines():
-    if line and not line.startswith("#"):
+    if "royatv_720p" in line:
         variant_url = urljoin(secured_url, line)
         break
+
+# Fallback: extract first stream URL
+if variant_url is None:
+    for line in playlist.splitlines():
+        if line and not line.startswith("#"):
+            variant_url = urljoin(secured_url, line)
+            break
+
+if variant_url is None:
+    raise Exception("No stream URL found")
 
 print("#EXTM3U")
 print("#EXT-X-VERSION:3")
