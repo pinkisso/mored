@@ -18,7 +18,7 @@ url_roya = "https://ticket.roya-tv.com/api/v5/fastchannel/1"
 s = requests.Session()
 
 # -------- Roya News --------
-resplink = s.get(url, headers=headers)
+resplink = s.get(url)
 response_json = json.loads(resplink.text)
 mastlnk = response_json["data"]["secured_url"]
 
@@ -40,7 +40,7 @@ with open("res/26-1/royanews.m3u8", "w", encoding="utf-8") as f:
     f.write(modified_content)
 
 # -------- Roya --------
-resplink_roya = s.get(url_roya, headers=headers)
+resplink_roya = s.get(url_roya)
 response_json_roya = json.loads(resplink_roya.text)
 mastlnk_roya = response_json_roya["data"]["secured_url"]
 
