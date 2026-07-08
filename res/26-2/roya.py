@@ -6,6 +6,7 @@ session = requests.Session()
 
 session.headers.update({
     "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "identity",
 })
 
 
