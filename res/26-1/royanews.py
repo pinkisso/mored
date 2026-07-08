@@ -3,11 +3,11 @@ import re
 import json
 
 # Roya News
-base_url = "https://guxaykcuao.erbvr.com/royanews/"
+base_url = "https://live.kwikmotion.com/royanewslive/royanews.smil/"
 url = "https://ticket.roya-tv.com/api/v5/fastchannel/21"
 
 # Roya
-base_url_roya = "https://ochuergrys.erbvr.com/roya/"
+base_url_roya = "https://live.kwikmotion.com/royatvlive/royatv.smil/"
 url_roya = "https://ticket.roya-tv.com/api/v5/fastchannel/1"
 
 s = requests.Session()
