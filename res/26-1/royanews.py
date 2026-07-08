@@ -17,16 +17,7 @@ resplink = s.get(url)
 response_json = json.loads(resplink.text)
 mastlnk = response_json["data"]["secured_url"]
 
-content_response = s.get(
-    mastlnk,
-    headers={
-        "Accept-Encoding": "identity",
-        "Origin": "https://roya.tv",
-        "Referer": "https://roya.tv/",
-        "User-Agent": "Mozilla/5.0"
-    },
-    timeout=20
-)
+content_response = s.get(mastlnk)
 
 content = content_response.text
 
@@ -48,16 +39,7 @@ resplink_roya = s.get(url_roya)
 response_json_roya = json.loads(resplink_roya.text)
 mastlnk_roya = response_json_roya["data"]["secured_url"]
 
-content_response_roya = s.get(
-    mastlnk_roya,
-    headers={
-        "Accept-Encoding": "identity",
-        "Origin": "https://roya.tv",
-        "Referer": "https://roya.tv/",
-        "User-Agent": "Mozilla/5.0"
-    },
-    timeout=20
-)
+content_response_roya = s.get(mastlnk_roya)
 
 content_roya = content_response_roya.text
 
