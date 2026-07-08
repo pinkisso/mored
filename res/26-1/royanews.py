@@ -21,6 +21,8 @@ content_response = s.get(
     mastlnk,
     headers={
         "Accept-Encoding": "identity",
+        "Origin": "https://roya.tv",
+        "Referer": "https://roya.tv/",
         "User-Agent": "Mozilla/5.0"
     },
     timeout=20
@@ -50,6 +52,8 @@ content_response_roya = s.get(
     mastlnk_roya,
     headers={
         "Accept-Encoding": "identity",
+        "Origin": "https://roya.tv",
+        "Referer": "https://roya.tv/",
         "User-Agent": "Mozilla/5.0"
     },
     timeout=20
