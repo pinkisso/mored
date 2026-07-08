@@ -1,0 +1,16 @@
+Secured URL:
+https://live.kwikmotion.com/royatvlive/royatv.smil/playlist.m3u8?hdnts=exp=1783486375~acl=/royatvlive/royatv.smil/*~hmac=172bd7a1cb4fab532b0ff26488b044b8f59e2bd4485d1621f3094e9ad6405988
+
+Playlist content:
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3159213,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+royatvpublish/royatv_source/hdntl=exp=1783569175~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=508786640aebb14e3d7473955a4704474b0604d55b06b52fc32b3315c357309c/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1615849,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+royatvpublish/royatv_720p/hdntl=exp=1783569175~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=508786640aebb14e3d7473955a4704474b0604d55b06b52fc32b3315c357309c/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=889182,FRAME-RATE=25,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+royatvpublish/royatv_480p/hdntl=exp=1783569175~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=508786640aebb14e3d7473955a4704474b0604d55b06b52fc32b3315c357309c/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800070,FRAME-RATE=25,RESOLUTION=640x360,CODECS="avc1.42c01e,mp4a.40.2",CLOSED-CAPTIONS=NONE
+royatvpublish/royatv_360p/hdntl=exp=1783569175~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=508786640aebb14e3d7473955a4704474b0604d55b06b52fc32b3315c357309c/chunks.m3u8
+
