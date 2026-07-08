@@ -1,0 +1,68 @@
+import requests
+from urllib.parse import urljoin
+import os
+
+session = requests.Session()
+
+session.headers.update({
+    "User-Agent": "Mozilla/5.0",
+})
+
+
+def get_variant_url(api_url):
+    # Get secured URL
+    r = session.get(api_url, timeout=10)
+    r.raise_for_status()
+
+    secured_url = r.json()["data"]["secured_url"]
+
+    # Get master m3u8
+    r = session.get(secured_url, timeout=10)
+    r.raise_for_status()
+
+    playlist = r.text
+
+    variant_url = None
+
+    # Try to extract 720p stream URL
+    for line in playlist.splitlines():
+        if "royatv_720p" in line:
+            variant_url = urljoin(secured_url, line)
+            break
+
+    # Fallback: extract first stream URL
+    if variant_url is None:
+        for line in playlist.splitlines():
+            if line and not line.startswith("#"):
+                variant_url = urljoin(secured_url, line)
+                break
+
+    if variant_url is None:
+        raise Exception("No stream URL found")
+
+    return variant_url
+
+
+def write_m3u8(filename, variant_url):
+    content = f'''#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3583979,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
+{variant_url}
+'''
+
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(content)
+
+
+# API 1 -> roya1.m3u8
+api_url = "https://ticket.roya-tv.com/api/v5/fastchannel/1"
+roya1_url = get_variant_url(api_url)
+
+write_m3u8("res/26-2/roya1.m3u8", roya1_url)
+
+
+# API 2 -> roya2.m3u8
+api_url2 = "https://ticket.roya-tv.com/api/v5/fastchannel/21"
+roya2_url = get_variant_url(api_url2)
+
+write_m3u8("res/26-2/roya2.m3u8", roya2_url)
