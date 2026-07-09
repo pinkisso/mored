@@ -1,7 +1,7 @@
 name: tvi-pt_ch action
 on:
   schedule:
-    - cron: "00 04,16 * * *"
+    - cron: "00 04,08,12,16,20,23 * * *"
     
   workflow_dispatch:
 
