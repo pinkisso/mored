@@ -2,7 +2,7 @@ name: roya
 
 on:
   schedule:
-    - cron: '06 */21 * * *'
+    - cron: '06 */15 * * *'
   workflow_dispatch:
 
 jobs:
