@@ -6,7 +6,7 @@ headers = {
     "User-Agent": "Mozilla/5.0"
 }
 
-response = requests.get(url, headers=headers, allow_redirects=False)
+response = requests.get(url, headers=headers, allow_redirects=True)
 
 print("#EXTM3U")
 print("#EXT-X-VERSION:3")
