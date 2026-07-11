@@ -1,1 +1,4 @@
-angers.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=7680000
+https://live.eu-north-1a.cf.dmcdn.net/sec2(cVbdClxVjcjGq7trf7K2kt1RWQdi6g5FjZlMKwtLWz5YTYhei5RqU3pPIPsuotHJnVozxMLArinAyUSaVtO4UT6n3GQJus4yzEZV58NVf1dfLY0MzVaR_vZ1fj3O2qqH)/dm/3/x8r7256/s/live-720.m3u8

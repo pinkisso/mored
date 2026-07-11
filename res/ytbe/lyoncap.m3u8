@@ -1,1 +1,4 @@
-lyoncap.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=7680000
+https://live.eu-north-1b.cf.dmcdn.net/sec2(_PaHJEj6EMJsed5lrSmiUAnUBhP72NwoFRcb6kK6nFwstkZTbJSwBYjNdJTIxua2QWxUzWTmdLYep7LEafnBfnRh0scTb_a71-CIKXgZHHnjrMyVpKJsjqK_u9S1yPZs)/dm/3/x7z3zqa/d/live-720.m3u8

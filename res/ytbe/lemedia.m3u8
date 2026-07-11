@@ -1,1 +1,4 @@
-lemedia.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=7680000
+https://live.eu-north-1a.cf.dmcdn.net/sec2(jqsO8ohWKzKHJYg7P9DIr0ankghWna5B1QfrgW-5JQNAcwq9KAUMxJ7vefFD2qmE0HVIWCcyYBI6ToBI0MOcez45C9x8bLOCjpb8ybGUSoNTm7GJhe4475-NX0hrlT8B)/dm/3/x8dtuir/d/live-720.m3u8
