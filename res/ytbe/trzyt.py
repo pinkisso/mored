@@ -8,6 +8,12 @@ playlists = {
     "maurienne.m3u8": "https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8",
     "mozacris.m3u8": "https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCQC0xLG_W0QpqAXQ4-yhwBA.m3u8",
     "lmsarthe.m3u8": "https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCidJ6dBJ7oEfdAVzqaL2nSg.m3u8",
+    "lemedia.m3u8" : "https://tvradiozap.eu/tools/cof-m3u8.php/dm/x8dtuir.m3u8",
+	"7alimoges.m3u8" : https://tvradiozap.eu/tools/cof-m3u8.php/dm/x5gv5v0.m3u8",
+	"moselle.m3u8" : https://tvradiozap.eu/tools/cof-m3u8.php/dm/x9lgbik.m3u8",
+	"tv8mb.m3u8" : https://tvradiozap.eu/tools/cof-m3u8.php/dm/x3wqv8b.m3u8",
+	"angers.m3u8" : https://tvradiozap.eu/tools/cof-m3u8.php/dm/x8r7256.m3u8",
+	"lyoncap.m3u8" : https://tvradiozap.eu/tools/cof-m3u8.php/dm/x7z3zqa.m3u8",
 }
 
 headers = {
