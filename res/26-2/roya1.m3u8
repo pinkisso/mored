@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3583979,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
-https://live.kwikmotion.com/royatvlive/royatv.smil/royatvpublish/royatv_720p/hdntl=exp=1783868414~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=a596a081513d30f6758c9cf4d46abb4bba545d93054b4894fb10ccbdea88cd3e/chunks.m3u8
+https://live.kwikmotion.com/royatvlive/royatv.smil/royatvpublish/royatv_720p/hdntl=exp=1783914180~acl=%2froyatvlive%2froyatv.smil%2f*~data=hdntl~hmac=7d11ff7537da206ec2c70e435fa88f7eea6f64a1aa7816df062f4d7fdb441bd9/chunks.m3u8
