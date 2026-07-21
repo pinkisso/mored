@@ -31,10 +31,17 @@ jobs:
         run: python3 res/ytbe/trzyt.py
         continue-on-error: true
 
-      - name: Commit changes
+      - name: Check for changes
         run: |
           git add -A
-          git diff --cached --quiet || git commit -m "trzyt updated"
+          if git diff --cached --quiet; then
+            echo "No files changed"
+            exit 1
+          fi
+
+      - name: Commit changes
+        run: |
+          git commit -m "trzyt updated"
 
       - name: Pull and push safely
         run: |
