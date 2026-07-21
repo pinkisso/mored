@@ -29,6 +29,7 @@ jobs:
 
       - name: Execute Python script
         run: python3 res/ytbe/trzyt.py
+        continue-on-error: true
 
       - name: Commit changes
         run: |
