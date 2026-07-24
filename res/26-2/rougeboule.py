@@ -22,7 +22,7 @@ if not stream_url:
     raise Exception("RED BULL TV not found in playlist")
 
 # Download the referenced m3u8
-stream_response = requests.get(stream_url, headers=headers, timeout=20)
+stream_response = requests.get(stream_url)
 stream_response.raise_for_status()
 
 os.makedirs(os.path.dirname(output_file), exist_ok=True)
