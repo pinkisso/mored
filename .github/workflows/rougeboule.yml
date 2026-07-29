@@ -31,6 +31,7 @@ jobs:
 
       - name: Execute Python script
         run: python3 res/26-2/rougeboule.py
+        continue-on-error: true
 
       - name: git add
         run: |
