@@ -31,7 +31,6 @@ jobs:
 
       - name: Execute Python script
         run: python3 res/26-2/rougeboule.py
-        continue-on-error: true
 
       - name: git add
         run: |
@@ -43,3 +42,4 @@ jobs:
           git pull origin main
           git commit -m "rbtv updated"
           git push origin main
+          continue-on-error: true
