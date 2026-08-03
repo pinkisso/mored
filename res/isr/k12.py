@@ -15,8 +15,8 @@ headers = {
 }
 
 s = requests.Session()
-toki = s.get('https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=ngt&lp=/direct/hls/live/2033791/k12/index.m3u8?as=1&rv=AKAMAI', headers=headers).json()['tickets'][0]['ticket']
-master = 'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8'
+toki = s.get('https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=ngt&lp=/stream/hls/live/2033791/k12/index.m3u8?as=1&rv=AKAMAI', headers=headers).json()['tickets'][0]['ticket']
+master = 'https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/index.m3u8'
 final_master = f'{master}?{toki}'
 #print(final_master)
 
@@ -33,7 +33,7 @@ def get_specific_line_online(url, line_number):
 
 chunks = get_specific_line_online(final_master, 11)
 if chunks:
-    chunked = f'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/{chunks}'
+    chunked = f'https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/{chunks}'
     print(chunked)
 else:
     print("Failed to get the specific line from the online file.")
@@ -42,7 +42,7 @@ print('#EXT-X-STREAM-INF:BANDWIDTH=4681600,AVERAGE-BANDWIDTH=4505600,CODECS="avc
 
 chunksfhd = get_specific_line_online(final_master, 15)
 if chunksfhd:
-    chunkedfhd = f'https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/{chunksfhd}'
+    chunkedfhd = f'https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/{chunksfhd}'
     print(chunkedfhd)
 else:
     print("Failed to get the specific line from the online file.")
