@@ -67,3 +67,10 @@ api_url2 = "https://ticket.roya-tv.com/api/v5/fastchannel/21"
 roya2_url = get_variant_url(api_url2)
 
 write_m3u8("res/26-2/roya2.m3u8", roya2_url)
+
+# API 3 -> roya3.m3u8
+api_url3 = "https://ticket.roya-tv.com/api/v5/fastchannel/48"
+roya3_url = get_variant_url(api_url3)
+
+write_m3u8("res/26-2/roya3.m3u8", roya3_url)
+
