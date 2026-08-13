@@ -19,10 +19,6 @@ channels = {
         "master": "https://mako-streaming.akamaized.net/n12/hls/live/20000821/k12rh/index.m3u8",
         "base": "https://mako-streaming.akamaized.net/n12/hls/live/20000821/k12rh/",
     },
-    "t24": {
-        "master": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8",
-        "base": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/",
-    },
 }
 
 os.makedirs("res/isr2", exist_ok=True)
