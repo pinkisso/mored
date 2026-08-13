@@ -18,6 +18,7 @@ channels = {
     "erets": "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/erets/",
     "savri": "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/savri/",
     "ch24live": "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/ch24live/",
+    "t24": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/",
 }
 
 os.makedirs("res/isr2", exist_ok=True)
