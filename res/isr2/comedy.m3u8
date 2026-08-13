@@ -1,1 +1,14 @@
-ddd
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4747200,AVERAGE-BANDWIDTH=4276201,CODECS="avc1.640028, mp4a.40.2",RESOLUTION=1920x1080
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_comedy/hdntl=exp=1786718965~acl=%2f*~data=hdntl~hmac=314bf298ff07c48b4a20a68a25b35f9c5d6b37a95e2b9299876e0d45e2b38cff/video_10801920_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3712199,AVERAGE-BANDWIDTH=3366181,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1280x720
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_comedy/hdntl=exp=1786718965~acl=%2f*~data=hdntl~hmac=314bf298ff07c48b4a20a68a25b35f9c5d6b37a95e2b9299876e0d45e2b38cff/video_7201280_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2677200,AVERAGE-BANDWIDTH=2442825,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1280x720
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_comedy/hdntl=exp=1786718965~acl=%2f*~data=hdntl~hmac=314bf298ff07c48b4a20a68a25b35f9c5d6b37a95e2b9299876e0d45e2b38cff/video_7201280_p_1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1757199,AVERAGE-BANDWIDTH=1625279,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1024x576
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_comedy/hdntl=exp=1786718965~acl=%2f*~data=hdntl~hmac=314bf298ff07c48b4a20a68a25b35f9c5d6b37a95e2b9299876e0d45e2b38cff/video_5761024_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1124700,AVERAGE-BANDWIDTH=1060978,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=768x432
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_comedy/hdntl=exp=1786718965~acl=%2f*~data=hdntl~hmac=314bf298ff07c48b4a20a68a25b35f9c5d6b37a95e2b9299876e0d45e2b38cff/video_432768_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=779699,AVERAGE-BANDWIDTH=754263,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=640x360
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_comedy/hdntl=exp=1786718965~acl=%2f*~data=hdntl~hmac=314bf298ff07c48b4a20a68a25b35f9c5d6b37a95e2b9299876e0d45e2b38cff/video_360640_p_0.m3u8
