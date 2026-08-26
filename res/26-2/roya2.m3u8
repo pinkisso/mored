@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3583979,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
-https://live.kwikmotion.com/royanewslive/royanews.smil/royanewspublish/royanews_source/hdntl=exp=1787759481~acl=%2froyanewslive%2froyanews.smil%2f*~data=hdntl~hmac=d0f02e128bb6bd923c839bf2c14c391d78a00aa7571e57d52a44cd1b53133986/chunks.m3u8
+https://live.kwikmotion.com/royanewslive/royanews.smil/royanewspublish/royanews_source/hdntl=exp=1787795384~acl=%2froyanewslive%2froyanews.smil%2f*~data=hdntl~hmac=72a4b39ad4b18cd0507f7dd119260517fc7d76cbfc62cc629f16ea1be137dba6/chunks.m3u8
