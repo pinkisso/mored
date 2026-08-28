@@ -33,7 +33,7 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          if git status --short -- res/isr/sn.py | grep -q .; then
+          if git status --short -- res/isr/sn.m3u | grep -q .; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
             echo "sn.m3u has changed."
           else
