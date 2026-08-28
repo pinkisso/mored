@@ -39,7 +39,7 @@ sources = [
     ),
 ]
 
-output_file = "sn.m3u"
+output_file = "res/isr/sn.m3u"
 
 headers = {
     "User-Agent": "Mozilla/5.0"
@@ -178,7 +178,7 @@ for (
 
 
 # ============================================================
-# WRITE sn.m3u
+# WRITE res/isr/sn.m3u
 # ============================================================
 
 with open(
