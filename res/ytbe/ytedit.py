@@ -1,4 +1,3 @@
-```python
 import os
 import re
 import requests
@@ -126,4 +125,3 @@ for filename, url in php_sources.items():
 
     except Exception as e:
         print(f"ERROR processing {filename}: {e}")
-```
