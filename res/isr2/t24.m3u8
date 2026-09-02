@@ -1,14 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4747200,AVERAGE-BANDWIDTH=4274998,CODECS="avc1.640028, mp4a.40.2",RESOLUTION=1920x1080
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788388481~acl=%2f*~data=hdntl~hmac=fbff6c79326fb3f72575c3ae0e65e4b76d5dea86646cc1a12ae51fb781eb17c0/video_10801920_p_0.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3712199,AVERAGE-BANDWIDTH=3356054,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1280x720
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788388481~acl=%2f*~data=hdntl~hmac=fbff6c79326fb3f72575c3ae0e65e4b76d5dea86646cc1a12ae51fb781eb17c0/video_7201280_p_0.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2677200,AVERAGE-BANDWIDTH=2436795,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1280x720
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788388481~acl=%2f*~data=hdntl~hmac=fbff6c79326fb3f72575c3ae0e65e4b76d5dea86646cc1a12ae51fb781eb17c0/video_7201280_p_1.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1757199,AVERAGE-BANDWIDTH=1619235,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1024x576
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788388481~acl=%2f*~data=hdntl~hmac=fbff6c79326fb3f72575c3ae0e65e4b76d5dea86646cc1a12ae51fb781eb17c0/video_5761024_p_0.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1124700,AVERAGE-BANDWIDTH=1055650,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=768x432
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788388481~acl=%2f*~data=hdntl~hmac=fbff6c79326fb3f72575c3ae0e65e4b76d5dea86646cc1a12ae51fb781eb17c0/video_432768_p_0.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=779699,AVERAGE-BANDWIDTH=749908,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=640x360
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788388481~acl=%2f*~data=hdntl~hmac=fbff6c79326fb3f72575c3ae0e65e4b76d5dea86646cc1a12ae51fb781eb17c0/video_360640_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4747200,AVERAGE-BANDWIDTH=4275155,CODECS="avc1.640028, mp4a.40.2",RESOLUTION=1920x1080
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788409572~acl=%2f*~data=hdntl~hmac=f628798debdc762e642259930d84fa13ad60fd188d905d730f2de6c642123821/video_10801920_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3712199,AVERAGE-BANDWIDTH=3366524,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1280x720
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788409572~acl=%2f*~data=hdntl~hmac=f628798debdc762e642259930d84fa13ad60fd188d905d730f2de6c642123821/video_7201280_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2677200,AVERAGE-BANDWIDTH=2439702,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1280x720
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788409572~acl=%2f*~data=hdntl~hmac=f628798debdc762e642259930d84fa13ad60fd188d905d730f2de6c642123821/video_7201280_p_1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1757199,AVERAGE-BANDWIDTH=1621412,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1024x576
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788409572~acl=%2f*~data=hdntl~hmac=f628798debdc762e642259930d84fa13ad60fd188d905d730f2de6c642123821/video_5761024_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1124700,AVERAGE-BANDWIDTH=1057240,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=768x432
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788409572~acl=%2f*~data=hdntl~hmac=f628798debdc762e642259930d84fa13ad60fd188d905d730f2de6c642123821/video_432768_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=779699,AVERAGE-BANDWIDTH=751154,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=640x360
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=1788409572~acl=%2f*~data=hdntl~hmac=f628798debdc762e642259930d84fa13ad60fd188d905d730f2de6c642123821/video_360640_p_0.m3u8
