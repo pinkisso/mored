@@ -1,0 +1,79 @@
+name: kass
+
+on:
+  schedule:
+    - cron: "20 */19 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ============================================================
+      # CHECKOUT
+      # ============================================================
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      # ============================================================
+      # PYTHON
+      # ============================================================
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # ============================================================
+      # RUN KASS.PY
+      # ============================================================
+      - name: Generate Alkass playlists
+        run: |
+          python res/26-3/kass.py
+
+      # ============================================================
+      # CHECK GENERATED FILES
+      # ============================================================
+      - name: Check generated files
+        run: |
+          echo "Generated files:"
+          ls -lh \
+            "res/26-3/Alkass 1.m3u8" \
+            "res/26-3/Alkass 2.m3u8" \
+            "res/26-3/Alkass 3.m3u8" \
+            "res/26-3/Alkass 4.m3u8" \
+            "res/26-3/shoof1.m3u8"
+
+      # ============================================================
+      # STAGE ONLY THE FIVE M3U8 FILES
+      # ============================================================
+      - name: Stage generated files
+        run: |
+          git add -- \
+            "res/26-3/Alkass 1.m3u8" \
+            "res/26-3/Alkass 2.m3u8" \
+            "res/26-3/Alkass 3.m3u8" \
+            "res/26-3/Alkass 4.m3u8" \
+            "res/26-3/shoof1.m3u8"
+
+      # ============================================================
+      # COMMIT AND PUSH
+      # ============================================================
+      - name: Commit and push changes
+        run: |
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "Update Alkass M3U8 playlists"
+
+          git push origin main
