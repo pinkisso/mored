@@ -102,7 +102,10 @@ def process_channel(channel):
         output = "\n".join(output_lines) + "\n"
 
         # Filename
-        filename = f"{title}.m3u8"
+        filename = os.path.join(
+            os.path.dirname(os.path.abspath(__file__)),
+            f"{title}.m3u8"
+        )
 
         with open(filename, "w", encoding="utf-8") as f:
             f.write(output)
