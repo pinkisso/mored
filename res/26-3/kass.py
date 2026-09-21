@@ -102,24 +102,9 @@ def process_channel(channel):
         output = "\n".join(output_lines) + "\n"
 
         # Filename
-        # Filename mapping
-        filenames = {
-            "Alkass 1": "Alkass1.m3u8",
-            "Alkass 2": "Alkass2.m3u8",
-            "Alkass 3": "Alkass3.m3u8",
-            "Alkass 4": "Alkass4.m3u8",
-            "shoof1": "shoof1.m3u8",
-        }
-
-        filename = filenames.get(title)
-
-        if not filename:
-            print(f"SKIP: No filename mapping for {title}")
-            return
-
         filename = os.path.join(
             os.path.dirname(os.path.abspath(__file__)),
-            filename
+            f"{title}.m3u8"
         )
 
         with open(filename, "w", encoding="utf-8") as f:
