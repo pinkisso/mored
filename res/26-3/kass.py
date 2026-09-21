@@ -104,10 +104,10 @@ def process_channel(channel):
         # Filename
         # Filename mapping
         filenames = {
-            "Alkass 1": "Alkass_01.m3u8",
-            "Alkass 2": "Alkass_02.m3u8",
-            "Alkass 3": "Alkass_03.m3u8",
-            "Alkass 4": "Alkass_04.m3u8",
+            "Alkass 1": "Alkass1.m3u8",
+            "Alkass 2": "Alkass2.m3u8",
+            "Alkass 3": "Alkass3.m3u8",
+            "Alkass 4": "Alkass4.m3u8",
             "shoof1": "shoof1.m3u8",
         }
 
