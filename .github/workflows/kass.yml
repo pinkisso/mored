@@ -2,7 +2,7 @@ name: kass
 
 on:
   schedule:
-    - cron: "20 */19 * * *"
+    - cron: "19 */19 * * *"
 
   workflow_dispatch:
 
@@ -19,7 +19,7 @@ jobs:
       # CHECKOUT
       # ============================================================
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       # ============================================================
       # PYTHON
@@ -28,6 +28,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
+      # ============================================================
+      # INSTALL DEPENDENCIES
+      # ============================================================
+      - name: Install requests
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests
 
       # ============================================================
       # RUN KASS.PY
@@ -50,7 +58,7 @@ jobs:
             "res/26-3/shoof1.m3u8"
 
       # ============================================================
-      # STAGE ONLY THE FIVE M3U8 FILES
+      # STAGE ONLY THE FIVE FILES
       # ============================================================
       - name: Stage generated files
         run: |
