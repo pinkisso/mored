@@ -63,10 +63,10 @@ jobs:
       - name: Stage generated files
         run: |
           git add -- \
-            "res/26-3/Alkass 1.m3u8" \
-            "res/26-3/Alkass 2.m3u8" \
-            "res/26-3/Alkass 3.m3u8" \
-            "res/26-3/Alkass 4.m3u8" \
+            "res/26-3/Alkass1.m3u8" \
+            "res/26-3/Alkass2.m3u8" \
+            "res/26-3/Alkass3.m3u8" \
+            "res/26-3/Alkass4.m3u8" \
             "res/26-3/shoof1.m3u8"
 
       # ============================================================
