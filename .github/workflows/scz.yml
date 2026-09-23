@@ -1,0 +1,45 @@
+name: scz
+
+on:
+  schedule:
+    - cron: "*/55 * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-scz:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run scz.py
+        run: |
+          python res/26-3/scz.py
+
+      - name: Commit only scz.m3u8
+        run: |
+          git add res/26-3/scz.m3u8
+
+          if git diff --cached --quiet; then
+            echo "No changes to scz.m3u8"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+            git commit -m "Update scz"
+            git push
+          fi
