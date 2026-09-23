@@ -8,15 +8,20 @@ headers = {
 }
 
 try:
-    r = requests.get(API_URL, headers=headers, timeout=15)
-    r.raise_for_status()
+    r = requests.get(
+        API_URL,
+        headers=headers,
+        timeout=15,
+        allow_redirects=False
+    )
 
-    stream_url = r.text.strip()
+    print("HTTP status:", r.status_code)
+    print("Location:", r.headers.get("Location"))
+
+    stream_url = r.headers.get("Location")
 
     if not stream_url:
-        raise ValueError("No stream URL returned")
-
-    print("Stream URL:", stream_url)
+        raise ValueError("No Location header returned by lire.php")
 
     content = f"""#EXTM3U
 #EXT-X-VERSION:3
