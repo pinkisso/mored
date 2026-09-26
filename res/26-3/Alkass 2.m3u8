@@ -3,12 +3,12 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 
 #EXT-X-STREAM-INF:BANDWIDTH=6160000,AVERAGE-BANDWIDTH=6160000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=50.000
-https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_1080p_ts/hdntl=exp=1790461419~acl=%2f*~data=hdntl~hmac=59b70ce7d470e0e269dff2e27fd286fbda8320ff557be6d28e3bb7d1a805bc0e/index-1.m3u8
+https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_1080p_ts/hdntl=exp=1790485373~acl=%2f*~data=hdntl~hmac=e9828d787f0a92000228bc597f4cf8ad10406ba4201d689b9323e87c679bd814/index-1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3160000,AVERAGE-BANDWIDTH=3160000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=50.000
-https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_720p_ts/hdntl=exp=1790461419~acl=%2f*~data=hdntl~hmac=59b70ce7d470e0e269dff2e27fd286fbda8320ff557be6d28e3bb7d1a805bc0e/index-1.m3u8
+https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_720p_ts/hdntl=exp=1790485373~acl=%2f*~data=hdntl~hmac=e9828d787f0a92000228bc597f4cf8ad10406ba4201d689b9323e87c679bd814/index-1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1660000,AVERAGE-BANDWIDTH=1660000,RESOLUTION=854x480,CODECS="avc1.4d001e,mp4a.40.2",FRAME-RATE=50.000
-https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_480p_ts/hdntl=exp=1790461419~acl=%2f*~data=hdntl~hmac=59b70ce7d470e0e269dff2e27fd286fbda8320ff557be6d28e3bb7d1a805bc0e/index-1.m3u8
+https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_480p_ts/hdntl=exp=1790485373~acl=%2f*~data=hdntl~hmac=e9828d787f0a92000228bc597f4cf8ad10406ba4201d689b9323e87c679bd814/index-1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=960000,AVERAGE-BANDWIDTH=960000,RESOLUTION=640x360,CODECS="avc1.4d001e,mp4a.40.2",FRAME-RATE=50.000
-https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_360p_ts/hdntl=exp=1790461419~acl=%2f*~data=hdntl~hmac=59b70ce7d470e0e269dff2e27fd286fbda8320ff557be6d28e3bb7d1a805bc0e/index-1.m3u8
+https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_360p_ts/hdntl=exp=1790485373~acl=%2f*~data=hdntl~hmac=e9828d787f0a92000228bc597f4cf8ad10406ba4201d689b9323e87c679bd814/index-1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=560000,AVERAGE-BANDWIDTH=560000,RESOLUTION=426x240,CODECS="avc1.4d0015,mp4a.40.2",FRAME-RATE=50.000
-https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_240p_ts/hdntl=exp=1790461419~acl=%2f*~data=hdntl~hmac=59b70ce7d470e0e269dff2e27fd286fbda8320ff557be6d28e3bb7d1a805bc0e/index-1.m3u8
+https://liveeu-gcps.alkassdigital.net/alkass2-p/20260924T082724Z/mux_video_240p_ts/hdntl=exp=1790485373~acl=%2f*~data=hdntl~hmac=e9828d787f0a92000228bc597f4cf8ad10406ba4201d689b9323e87c679bd814/index-1.m3u8
