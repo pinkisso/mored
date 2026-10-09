@@ -2,12 +2,12 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=6107200,AVERAGE-BANDWIDTH=6155600,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000
-https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/hdntl=exp=1791589536~acl=%2f*~data=hdntl~hmac=176b4af66973045af44d253839903238e44dbb9ecf81eedfb2a5048586607f5c/master1080.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/hdntl=exp=1791612798~acl=%2f*~data=hdntl~hmac=5a27555d084b22e0b652675025f7a4ca0580575b8f92869981095200d09a3c2d/master1080.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3379200,AVERAGE-BANDWIDTH=3405600,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=50.000
-https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/hdntl=exp=1791589536~acl=%2f*~data=hdntl~hmac=176b4af66973045af44d253839903238e44dbb9ecf81eedfb2a5048586607f5c/master720.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/hdntl=exp=1791612798~acl=%2f*~data=hdntl~hmac=5a27555d084b22e0b652675025f7a4ca0580575b8f92869981095200d09a3c2d/master720.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2069760,AVERAGE-BANDWIDTH=2085600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=50.000
-https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/hdntl=exp=1791589536~acl=%2f*~data=hdntl~hmac=176b4af66973045af44d253839903238e44dbb9ecf81eedfb2a5048586607f5c/master540.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/hdntl=exp=1791612798~acl=%2f*~data=hdntl~hmac=5a27555d084b22e0b652675025f7a4ca0580575b8f92869981095200d09a3c2d/master540.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1196800,AVERAGE-BANDWIDTH=1205600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=800x450,FRAME-RATE=50.000
-https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/hdntl=exp=1791589536~acl=%2f*~data=hdntl~hmac=176b4af66973045af44d253839903238e44dbb9ecf81eedfb2a5048586607f5c/master450.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/hdntl=exp=1791612798~acl=%2f*~data=hdntl~hmac=5a27555d084b22e0b652675025f7a4ca0580575b8f92869981095200d09a3c2d/master450.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=542080,AVERAGE-BANDWIDTH=545600,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=604x340,FRAME-RATE=50.000
-https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/hdntl=exp=1791589536~acl=%2f*~data=hdntl~hmac=176b4af66973045af44d253839903238e44dbb9ecf81eedfb2a5048586607f5c/master340.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/shooflivevssaua/hdntl=exp=1791612798~acl=%2f*~data=hdntl~hmac=5a27555d084b22e0b652675025f7a4ca0580575b8f92869981095200d09a3c2d/master340.m3u8
