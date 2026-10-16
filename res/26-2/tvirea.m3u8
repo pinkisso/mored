@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1972967,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
-https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNiAxMDo1ODozNSBQTSZoYXNoX3ZhbHVlPW15cWQzb2gzRGpxQ3J3RHZOT0l2VFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNGQ5MDQ3MC0xNzUxLTRiNmYtYjk4Ni1iMmM3MTczNDQyMzQ=
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNiAxOjExOjUxIEFNJmhhc2hfdmFsdWU9VHpvOEpESTlDZTlHYVBVMFlqSlA2dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA5NmIyMGJjLTc5ZGMtNDJmOC1hZDhhLWFhZDVmMDQ3YjliZA==
