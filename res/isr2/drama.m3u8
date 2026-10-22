@@ -1,14 +1,14 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4747200,AVERAGE-BANDWIDTH=4276072,CODECS="avc1.640028, mp4a.40.2",RESOLUTION=1920x1080
-https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792710935~acl=%2f*~data=hdntl~hmac=523fd80d6befc5d0c2df384f7a849bf2b35d67c1b07f7de781764a178aaf6f6b/video_10801920_p_0.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3712199,AVERAGE-BANDWIDTH=3351914,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1280x720
-https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792710935~acl=%2f*~data=hdntl~hmac=523fd80d6befc5d0c2df384f7a849bf2b35d67c1b07f7de781764a178aaf6f6b/video_7201280_p_0.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2677200,AVERAGE-BANDWIDTH=2436623,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1280x720
-https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792710935~acl=%2f*~data=hdntl~hmac=523fd80d6befc5d0c2df384f7a849bf2b35d67c1b07f7de781764a178aaf6f6b/video_7201280_p_1.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1757199,AVERAGE-BANDWIDTH=1619378,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1024x576
-https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792710935~acl=%2f*~data=hdntl~hmac=523fd80d6befc5d0c2df384f7a849bf2b35d67c1b07f7de781764a178aaf6f6b/video_5761024_p_0.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1124700,AVERAGE-BANDWIDTH=1057254,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=768x432
-https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792710935~acl=%2f*~data=hdntl~hmac=523fd80d6befc5d0c2df384f7a849bf2b35d67c1b07f7de781764a178aaf6f6b/video_432768_p_0.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=779699,AVERAGE-BANDWIDTH=750825,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=640x360
-https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792710935~acl=%2f*~data=hdntl~hmac=523fd80d6befc5d0c2df384f7a849bf2b35d67c1b07f7de781764a178aaf6f6b/video_360640_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4747200,AVERAGE-BANDWIDTH=4279152,CODECS="avc1.640028, mp4a.40.2",RESOLUTION=1920x1080
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792730177~acl=%2f*~data=hdntl~hmac=db35a764b7e85c1bc364bb27442bdc0dd75df7d496323950a73e97274b7cf957/video_10801920_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3712199,AVERAGE-BANDWIDTH=3353619,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1280x720
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792730177~acl=%2f*~data=hdntl~hmac=db35a764b7e85c1bc364bb27442bdc0dd75df7d496323950a73e97274b7cf957/video_7201280_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2677200,AVERAGE-BANDWIDTH=2434732,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1280x720
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792730177~acl=%2f*~data=hdntl~hmac=db35a764b7e85c1bc364bb27442bdc0dd75df7d496323950a73e97274b7cf957/video_7201280_p_1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1757199,AVERAGE-BANDWIDTH=1618160,CODECS="avc1.64001F, mp4a.40.2",RESOLUTION=1024x576
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792730177~acl=%2f*~data=hdntl~hmac=db35a764b7e85c1bc364bb27442bdc0dd75df7d496323950a73e97274b7cf957/video_5761024_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1124700,AVERAGE-BANDWIDTH=1057942,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=768x432
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792730177~acl=%2f*~data=hdntl~hmac=db35a764b7e85c1bc364bb27442bdc0dd75df7d496323950a73e97274b7cf957/video_432768_p_0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=779699,AVERAGE-BANDWIDTH=751398,CODECS="avc1.42001E, mp4a.40.2",RESOLUTION=640x360
+https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/hdntl=exp=1792730177~acl=%2f*~data=hdntl~hmac=db35a764b7e85c1bc364bb27442bdc0dd75df7d496323950a73e97274b7cf957/video_360640_p_0.m3u8
