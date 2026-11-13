@@ -5,42 +5,76 @@ headers = {
     "Accept-Encoding": "identity",
 }
 
-master = "https://d2249b6f08tjt0.cloudfront.net/k12cc/index.m3u8?b-in-range=0-5000&"
-base = "https://d2249b6f08tjt0.cloudfront.net/k12cc/"
+session = requests.Session()
 
-ticket_url = (
-    "https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp"
-    "?et=ngt"
-    "&lp=/k12cc/index.m3u8?b-in-range=0-5000"
-    "&rv=AWS"
-)
+channels = {
+    "k12cc": {
+        "base": "https://d2249b6f08tjt0.cloudfront.net/k12cc/",
+        "output": "res/isr2/k12cc.m3u8",
+    },
+    "k12dvr": {
+        "base": "https://d2249b6f08tjt0.cloudfront.net/k12dvr/",
+        "output": "res/isr2/k12dvr.m3u8",
+    },
+}
 
-s = requests.Session()
+for name, config in channels.items():
 
-# Get ticket
-ticket = s.get(ticket_url, headers=headers).json()["tickets"][0]["ticket"]
+    print(f"Processing {name}...")
 
-# Build authenticated master URL
-master_url = master + ticket
+    base = config["base"]
 
-# Download master playlist
-response = s.get(master_url, headers=headers)
-response.raise_for_status()
+    master = base + "index.m3u8?b-in-range=0-5000&"
 
-content = ""
+    ticket_url = (
+        "https://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp"
+        "?et=ngt"
+        f"&lp=/{name}/index.m3u8?b-in-range=0-5000"
+        "&rv=AWS"
+    )
 
-for line in response.text.splitlines():
-    line = line.strip()
+    try:
+        # Get ticket
+        ticket_response = session.get(
+            ticket_url,
+            headers=headers,
+            timeout=20
+        )
+        ticket_response.raise_for_status()
 
-    if not line:
-        continue
+        ticket = ticket_response.json()["tickets"][0]["ticket"]
 
-    if line.startswith("#"):
-        content += line + "\n"
-    else:
-        content += base + line + "\n"
+        # Build authenticated master URL
+        master_url = master + ticket
 
-print(content)
+        # Download master playlist
+        response = session.get(
+            master_url,
+            headers=headers,
+            timeout=30
+        )
+        response.raise_for_status()
 
-with open("res/isr2/k12cc.m3u8", "w", encoding="utf-8") as f:
-    f.write(content)
+        content = []
+
+        for line in response.text.splitlines():
+            line = line.strip()
+
+            if not line:
+                continue
+
+            if line.startswith("#"):
+                content.append(line)
+            else:
+                content.append(base + line)
+
+        final_content = "\n".join(content) + "\n"
+
+        # Save playlist
+        with open(config["output"], "w", encoding="utf-8") as f:
+            f.write(final_content)
+
+        print(f"SUCCESS: {config['output']} updated")
+
+    except Exception as e:
+        print(f"ERROR processing {name}: {e}")
