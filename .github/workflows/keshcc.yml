@@ -2,7 +2,7 @@ name: keshcc
 
 on:
   schedule:
-    - cron: '07 */06 * * *'
+    - cron: '07 */03 * * *'
   workflow_dispatch:
 
 jobs:
