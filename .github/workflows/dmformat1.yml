@@ -1,0 +1,61 @@
+name: dmformat1
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dmformat1-update
+  cancel-in-progress: false
+
+jobs:
+  dmformat1-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Generate lemediadm1.m3u8
+        run: |
+          set -e
+
+          python res/dm1/dmformat1.py > /tmp/lemediadm1.m3u8
+
+          # Validate generated playlist before replacing existing file
+          grep -q '^#EXTM3U$' /tmp/lemediadm1.m3u8
+          grep -q '^#EXT-X-MEDIA:' /tmp/lemediadm1.m3u8
+          grep -q '^#EXT-X-STREAM-INF:' /tmp/lemediadm1.m3u8
+          grep -q 'live-h264-' /tmp/lemediadm1.m3u8
+          grep -q 'live-aac-128.m3u8' /tmp/lemediadm1.m3u8
+
+          cp /tmp/lemediadm1.m3u8 res/dm1/lemediadm1.m3u8
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add res/dm1/lemediadm1.m3u8
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "Update lemediadm1.m3u8"
+            git push
+          fi
