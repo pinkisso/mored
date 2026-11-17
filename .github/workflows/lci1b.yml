@@ -2,7 +2,7 @@ name: lci1b action
 
 on:
   schedule:
-    - cron: '11,22,33,44,55 * * * *'
+    - cron: '9,18,27,36,45,54 * * * *'
   
   workflow_dispatch:
 
