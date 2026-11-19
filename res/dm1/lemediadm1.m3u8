@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:7
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A2",NAME="fre",DEFAULT=YES,CHANNELS="2",URI="https://live.eu-north-1a.cf.dmcdn.net/sec2(mfSi7s1IIVk_B_tyG4muJcm31_YHkdrseJiXxnHziXifVlZMm5N74oux1k9wuAsZxUMl8KSn1bFofORbIgNfOBbK0LbtYM1kECgWSh5zHUivFDVZF2MTXKT7lWn-OQDlFAjqH6offgwjeOKZDPdrV5zormto6Z_swSeNLvQMDH_sZKwviI7VX6rfpz9GXYyn)/dm/3/x8dtuir/d/live-aac-128.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A2",NAME="fre",DEFAULT=YES,CHANNELS="2",URI="https://live.eu-north-1a.cf.dmcdn.net/sec2(WX59q4xxOlZiUU8RGNnXwgJ3ZBYG0uiYkU7uTSTN-1lXfe1gLQCD5OtMP1tTXwAXU6uKZH4GTMJ1PXRF-eWofOHfhKb1b-opbc-0nFaJ_xPRSyaFzJVtlC_b5XDSYh4QZ4yMGNu-w2U6dg7Z7pvEJFflDCkVwHsEhE8KUdNLVrmRwyHRr4IgdxabW8uqBqA9)/dm/3/x8dtuir/d/live-aac-128.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=1667072,RESOLUTION=848x477,CODECS="avc1.64001f,mp4a.40.2",NAME="480",AUDIO="group_A2"
-https://live.eu-north-1a.cf.dmcdn.net/sec2(mfSi7s1IIVk_B_tyG4muJcm31_YHkdrseJiXxnHziXifVlZMm5N74oux1k9wuAsZxUMl8KSn1bFofORbIgNfOBbK0LbtYM1kECgWSh5zHUivFDVZF2MTXKT7lWn-OQDlFAjqH6offgwjeOKZDPdrV5zormto6Z_swSeNLvQMDH_sZKwviI7VX6rfpz9GXYyn)/dm/3/x8dtuir/d/live-h264-480.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(WX59q4xxOlZiUU8RGNnXwgJ3ZBYG0uiYkU7uTSTN-1lXfe1gLQCD5OtMP1tTXwAXU6uKZH4GTMJ1PXRF-eWofOHfhKb1b-opbc-0nFaJ_xPRSyaFzJVtlC_b5XDSYh4QZ4yMGNu-w2U6dg7Z7pvEJFflDCkVwHsEhE8KUdNLVrmRwyHRr4IgdxabW8uqBqA9)/dm/3/x8dtuir/d/live-h264-480.m3u8
